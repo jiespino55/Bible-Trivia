@@ -1,0 +1,702 @@
+[
+    {
+        "id": 301,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (Genesis 1:1): 'In the beginning, God created the heavens and the ______.'",
+        "answer": "Earth",
+        "reference": "Genesis 1:1"
+    },
+    {
+        "id": 302,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (Genesis 12:2): 'And I will make of you a great nation, and I will bless you and make your name great, so that you will be a ______.'",
+        "answer": "Blessing",
+        "reference": "Genesis 12:2"
+    },
+    {
+        "id": 303,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Finish the verse (Exodus 3:14): 'God said to Moses, \"I AM WHO ______.\"'",
+        "answer": "I AM",
+        "reference": "Exodus 3:14"
+    },
+    {
+        "id": 304,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (Exodus 20:3): 'You shall have no other gods ______ me.'",
+        "answer": "Before",
+        "reference": "Exodus 20:3"
+    },
+    {
+        "id": 305,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (Leviticus 19:18): 'You shall love your neighbor as ______: I am the LORD.'",
+        "answer": "Yourself",
+        "reference": "Leviticus 19:18"
+    },
+    {
+        "id": 306,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Finish the verse (Numbers 6:24): 'The LORD bless you and ______ you.'",
+        "answer": "Keep",
+        "reference": "Numbers 6:24"
+    },
+    {
+        "id": 307,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (Deuteronomy 6:5): 'You shall love the LORD your God with all your heart and with all your soul and with all your ______.'",
+        "answer": "Might",
+        "reference": "Deuteronomy 6:5"
+    },
+    {
+        "id": 308,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Finish the verse (Joshua 1:9): 'Be strong and courageous. Do not be frightened, and do not be dismayed, for the LORD your God is with you ______.'",
+        "answer": "Wherever you go",
+        "reference": "Joshua 1:9"
+    },
+    {
+        "id": 309,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Finish the verse (Joshua 24:15): 'But as for me and my house, we will ______.'",
+        "answer": "Serve the LORD",
+        "reference": "Joshua 24:15"
+    },
+    {
+        "id": 310,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (1 Samuel 16:7): 'For the LORD sees not as man sees: man looks on the outward appearance, but the LORD looks on the ______.'",
+        "answer": "Heart",
+        "reference": "1 Samuel 16:7"
+    },
+    {
+        "id": 311,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (2 Chronicles 7:14): '...then I will hear from heaven and will forgive their sin and ______ their land.'",
+        "answer": "Heal",
+        "reference": "2 Chronicles 7:14"
+    },
+    {
+        "id": 312,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Finish the verse (Nehemiah 8:10): '...for the joy of the LORD is your ______.'",
+        "answer": "Strength",
+        "reference": "Nehemiah 8:10"
+    },
+    {
+        "id": 313,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (Psalm 1:1): 'Blessed is the man who walks not in the counsel of the wicked, nor stands in the way of sinners, nor sits in the seat of ______.'",
+        "answer": "Scoffers",
+        "reference": "Psalm 1:1"
+    },
+    {
+        "id": 314,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (Psalm 19:1): 'The heavens declare the glory of God, and the sky above proclaims his ______.'",
+        "answer": "Handiwork",
+        "reference": "Psalm 19:1"
+    },
+    {
+        "id": 315,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Finish the verse (Psalm 23:1): 'The LORD is my shepherd; I shall not ______.'",
+        "answer": "Want",
+        "reference": "Psalm 23:1"
+    },
+    {
+        "id": 316,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Finish the verse (Psalm 23:4): 'Even though I walk through the valley of the shadow of death, I will fear no evil, for you are ______.'",
+        "answer": "With me",
+        "reference": "Psalm 23:4"
+    },
+    {
+        "id": 317,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (Psalm 27:1): 'The LORD is my light and my salvation; whom shall I ______?'",
+        "answer": "Fear",
+        "reference": "Psalm 27:1"
+    },
+    {
+        "id": 318,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (Psalm 34:8): 'Oh, taste and see that the LORD is ______!'",
+        "answer": "Good",
+        "reference": "Psalm 34:8"
+    },
+    {
+        "id": 319,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (Psalm 46:1): 'God is our refuge and strength, a very present help in ______.'",
+        "answer": "Trouble",
+        "reference": "Psalm 46:1"
+    },
+    {
+        "id": 320,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Finish the verse (Psalm 46:10): 'Be still, and know that I am ______.'",
+        "answer": "God",
+        "reference": "Psalm 46:10"
+    },
+    {
+        "id": 321,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (Psalm 56:3): 'When I am afraid, I put my ______ in you.'",
+        "answer": "Trust",
+        "reference": "Psalm 56:3"
+    },
+    {
+        "id": 322,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (Psalm 90:12): 'So teach us to number our days that we may get a heart of ______.'",
+        "answer": "Wisdom",
+        "reference": "Psalm 90:12"
+    },
+    {
+        "id": 323,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (Psalm 100:1): 'Make a joyful noise to the LORD, all the ______!'",
+        "answer": "Earth",
+        "reference": "Psalm 100:1"
+    },
+    {
+        "id": 324,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (Psalm 103:12): 'As far as the east is from the west, so far does he remove our ______ from us.'",
+        "answer": "Transgressions",
+        "reference": "Psalm 103:12"
+    },
+    {
+        "id": 325,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Finish the verse (Psalm 118:24): 'This is the day that the LORD has made; let us rejoice and be ______.'",
+        "answer": "Glad in it",
+        "reference": "Psalm 118:24"
+    },
+    {
+        "id": 326,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (Psalm 119:105): 'Your word is a lamp to my feet and a light to my ______.'",
+        "answer": "Path",
+        "reference": "Psalm 119:105"
+    },
+    {
+        "id": 327,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Finish the verse (Psalm 121:2): 'My help comes from the LORD, who made ______.'",
+        "answer": "Heaven and earth",
+        "reference": "Psalm 121:2"
+    },
+    {
+        "id": 328,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (Psalm 127:1): 'Unless the LORD builds the house, those who build it labor in ______.'",
+        "answer": "Vain",
+        "reference": "Psalm 127:1"
+    },
+    {
+        "id": 329,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (Psalm 139:14): 'I praise you, for I am fearfully and ______ made.'",
+        "answer": "Wonderfully",
+        "reference": "Psalm 139:14"
+    },
+    {
+        "id": 330,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (Proverbs 3:5): 'Trust in the LORD with all your heart, and do not lean on your own ______.'",
+        "answer": "Understanding",
+        "reference": "Proverbs 3:5"
+    },
+    {
+        "id": 331,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Finish the verse (Proverbs 3:6): 'In all your ways acknowledge him, and he will ______.'",
+        "answer": "Make straight your paths",
+        "reference": "Proverbs 3:6"
+    },
+    {
+        "id": 332,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (Proverbs 4:23): 'Keep your heart with all vigilance, for from it flow the springs of ______.'",
+        "answer": "Life",
+        "reference": "Proverbs 4:23"
+    },
+    {
+        "id": 333,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (Proverbs 9:10): 'The fear of the LORD is the beginning of ______.'",
+        "answer": "Wisdom",
+        "reference": "Proverbs 9:10"
+    },
+    {
+        "id": 334,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (Proverbs 15:1): 'A soft answer turns away wrath, but a harsh word stirs up ______.'",
+        "answer": "Anger",
+        "reference": "Proverbs 15:1"
+    },
+    {
+        "id": 335,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (Proverbs 16:9): 'The heart of man plans his way, but the LORD establishes his ______.'",
+        "answer": "Steps",
+        "reference": "Proverbs 16:9"
+    },
+    {
+        "id": 336,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Finish the verse (Proverbs 16:18): 'Pride goes before destruction, and a haughty spirit before a ______.'",
+        "answer": "Fall",
+        "reference": "Proverbs 16:18"
+    },
+    {
+        "id": 337,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (Proverbs 17:22): 'A joyful heart is good medicine, but a crushed spirit dries up the ______.'",
+        "answer": "Bones",
+        "reference": "Proverbs 17:22"
+    },
+    {
+        "id": 338,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (Proverbs 18:10): 'The name of the LORD is a strong tower; the righteous man runs into it and is ______.'",
+        "answer": "Safe",
+        "reference": "Proverbs 18:10"
+    },
+    {
+        "id": 339,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Finish the verse (Proverbs 27:17): 'Iron sharpens iron, and one man sharpens ______.'",
+        "answer": "Another",
+        "reference": "Proverbs 27:17"
+    },
+    {
+        "id": 340,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (Ecclesiastes 3:1): 'For everything there is a season, and a time for every matter under ______.'",
+        "answer": "Heaven",
+        "reference": "Ecclesiastes 3:1"
+    },
+    {
+        "id": 341,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Finish the title (Isaiah 9:6): '...and his name shall be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of ______.'",
+        "answer": "Peace",
+        "reference": "Isaiah 9:6"
+    },
+    {
+        "id": 342,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (Isaiah 26:3): 'You keep him in perfect peace whose mind is stayed on you, because he ______ in you.'",
+        "answer": "Trusts",
+        "reference": "Isaiah 26:3"
+    },
+    {
+        "id": 343,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (Isaiah 40:8): 'The grass withers, the flower fades, but the word of our God will stand ______.'",
+        "answer": "Forever",
+        "reference": "Isaiah 40:8"
+    },
+    {
+        "id": 344,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Finish the verse (Isaiah 40:31): '...they shall mount up with wings like ______.'",
+        "answer": "Eagles",
+        "reference": "Isaiah 40:31"
+    },
+    {
+        "id": 345,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (Isaiah 53:6): 'All we like sheep have gone astray; we have turned—every one—to his own way; and the LORD has laid on him the iniquity of us ______.'",
+        "answer": "All",
+        "reference": "Isaiah 53:6"
+    },
+    {
+        "id": 346,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Finish the verse (Jeremiah 29:11): '\"...plans for welfare and not for evil, to give you a future and a ______.\"'",
+        "answer": "Hope",
+        "reference": "Jeremiah 29:11"
+    },
+    {
+        "id": 347,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Finish the verse (Lamentations 3:23): '...they are new every morning; great is your ______.'",
+        "answer": "Faithfulness",
+        "reference": "Lamentations 3:23"
+    },
+    {
+        "id": 348,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Finish the verse (Micah 6:8): '...what does the LORD require of you but to do justice, and to love kindness, and to walk ______ with your God?'",
+        "answer": "Humbly",
+        "reference": "Micah 6:8"
+    },
+    {
+        "id": 349,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (Habakkuk 2:4): '...but the righteous shall live by his ______.'",
+        "answer": "Faith",
+        "reference": "Habakkuk 2:4"
+    },
+    {
+        "id": 350,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Finish the verse (Zechariah 4:6): '\"Not by might, nor by power, but by my ______,\" says the LORD of hosts.'",
+        "answer": "Spirit",
+        "reference": "Zechariah 4:6"
+    },
+    {
+        "id": 351,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Finish the verse (Matthew 4:4): '\"Man shall not live by bread alone, but by every word that comes from the mouth of ______.\"'",
+        "answer": "God",
+        "reference": "Matthew 4:4"
+    },
+    {
+        "id": 352,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (Matthew 5:14): 'You are the light of the world. A city set on a hill cannot be ______.'",
+        "answer": "Hidden",
+        "reference": "Matthew 5:14"
+    },
+    {
+        "id": 353,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (Matthew 6:21): 'For where your treasure is, there your ______ will be also.'",
+        "answer": "Heart",
+        "reference": "Matthew 6:21"
+    },
+    {
+        "id": 354,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Finish the verse (Matthew 6:24): '\"No one can serve two masters... You cannot serve God and ______.\"'",
+        "answer": "Money",
+        "reference": "Matthew 6:24"
+    },
+    {
+        "id": 355,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Finish the verse (Matthew 6:33): 'But seek first the kingdom of God and his righteousness, and all these things will be ______.'",
+        "answer": "Added to you",
+        "reference": "Matthew 6:33"
+    },
+    {
+        "id": 356,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (Matthew 7:7): 'Ask, and it will be given to you; seek, and you will find; knock, and it will be ______ to you.'",
+        "answer": "Opened",
+        "reference": "Matthew 7:7"
+    },
+    {
+        "id": 357,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Finish the verse (Matthew 11:28): '\"Come to me, all who labor and are heavy laden, and I will give you ______.\"'",
+        "answer": "Rest",
+        "reference": "Matthew 11:28"
+    },
+    {
+        "id": 358,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Finish the verse (Matthew 28:20): '\"And behold, I am with you always, to the end of the ______.\"'",
+        "answer": "Age",
+        "reference": "Matthew 28:20"
+    },
+    {
+        "id": 359,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (Mark 8:36): 'For what does it profit a man to gain the whole world and forfeit his ______?'",
+        "answer": "Soul",
+        "reference": "Mark 8:36"
+    },
+    {
+        "id": 360,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Finish the verse (Mark 10:27): 'Jesus looked at them and said, \"With man it is impossible, but not with God. For all things are possible with ______.\"'",
+        "answer": "God",
+        "reference": "Mark 10:27"
+    },
+    {
+        "id": 361,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Finish the verse (Mark 10:45): '\"For even the Son of Man came not to be served but to serve, and to give his life as a ransom for ______.\"'",
+        "answer": "Many",
+        "reference": "Mark 10:45"
+    },
+    {
+        "id": 362,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Finish the verse (Luke 1:37): 'For nothing will be impossible with ______.'",
+        "answer": "God",
+        "reference": "Luke 1:37"
+    },
+    {
+        "id": 363,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (Luke 9:23): 'And he said to all, \"If anyone would come after me, let him deny himself and take up his cross ______ and follow me.\"'",
+        "answer": "Daily",
+        "reference": "Luke 9:23"
+    },
+    {
+        "id": 364,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Finish the verse (Luke 19:10): '\"For the Son of Man came to seek and to save the ______.\"'",
+        "answer": "Lost",
+        "reference": "Luke 19:10"
+    },
+    {
+        "id": 365,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (John 1:14): 'And the Word became flesh and dwelt among us, and we have seen his glory... full of grace and ______.'",
+        "answer": "Truth",
+        "reference": "John 1:14"
+    },
+    {
+        "id": 366,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (John 3:16): 'For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have ______ life.'",
+        "answer": "Eternal",
+        "reference": "John 3:16"
+    },
+    {
+        "id": 367,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Finish the verse (John 8:32): '\"...and you will know the truth, and the truth will ______.\"'",
+        "answer": "Set you free",
+        "reference": "John 8:32"
+    },
+    {
+        "id": 368,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Finish the verse (John 10:10): '\"I came that they may have life and have it ______.\"'",
+        "answer": "Abundantly",
+        "reference": "John 10:10"
+    },
+    {
+        "id": 369,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Finish the statement (John 14:6): 'Jesus said to him, \"I am the way, and the truth, and the ______.\"'",
+        "answer": "Life",
+        "reference": "John 14:6"
+    },
+    {
+        "id": 370,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Finish the verse (John 14:15): '\"If you love me, you will keep my ______.\"'",
+        "answer": "Commandments",
+        "reference": "John 14:15"
+    },
+    {
+        "id": 371,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Finish the verse (John 15:5): '\"...for apart from me you can do ______.\"'",
+        "answer": "Nothing",
+        "reference": "John 15:5"
+    },
+    {
+        "id": 372,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (Acts 1:8): '\"But you will receive power when the Holy Spirit has come upon you, and you will be my ______ in Jerusalem...\"'",
+        "answer": "Witnesses",
+        "reference": "Acts 1:8"
+    },
+    {
+        "id": 373,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Finish the statement (Acts 4:12): 'And there is salvation in no one else, for there is no other name under heaven given among men by which we must be ______.'",
+        "answer": "Saved",
+        "reference": "Acts 4:12"
+    },
+    {
+        "id": 374,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (Romans 1:16): 'For I am not ashamed of the gospel, for it is the power of God for salvation to everyone who ______...'",
+        "answer": "Believes",
+        "reference": "Romans 1:16"
+    },
+    {
+        "id": 375,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Finish the verse (Romans 3:23): '...for all have sinned and fall short of the glory of ______.'",
+        "answer": "God",
+        "reference": "Romans 3:23"
+    },
+    {
+        "id": 376,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (Romans 5:8): '...but God shows his love for us in that while we were still sinners, Christ ______ for us.'",
+        "answer": "Died",
+        "reference": "Romans 5:8"
+    },
+    {
+        "id": 377,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Finish the verse (Romans 8:1): 'There is therefore now no condemnation for those who are in ______.'",
+        "answer": "Christ Jesus",
+        "reference": "Romans 8:1"
+    },
+    {
+        "id": 378,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (Romans 8:28): 'And we know that for those who love God all things work together for ______...'",
+        "answer": "Good",
+        "reference": "Romans 8:28"
+    },
+    {
+        "id": 379,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Finish the question (Romans 8:31): 'What then shall we say to these things? If God is for us, who can be ______?'",
+        "answer": "Against us",
+        "reference": "Romans 8:31"
+    },
+    {
+        "id": 380,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (Romans 12:1): '...to present your bodies as a living ______, holy and acceptable to God...'",
+        "answer": "Sacrifice",
+        "reference": "Romans 12:1"
+    },
+    {
+        "id": 381,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (Romans 12:2): 'Do not be conformed to this world, but be transformed by the renewal of your ______...'",
+        "answer": "Mind",
+        "reference": "Romans 12:2"
+    },
+    {
+        "id": 382,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Finish the verse (1 Corinthians 6:19): 'Or do you not know that your body is a temple of the Holy Spirit within you... You are not your ______.'",
+        "answer": "Own",
+        "reference": "1 Corinthians 6:19"
+    },
+    {
+        "id": 383,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Finish the verse (1 Corinthians 10:31): 'So, whether you eat or drink, or whatever you do, do all to the glory of ______.'",
+        "answer": "God",
+        "reference": "1 Corinthians 10:31"
+    },
+    {
+        "id": 384,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (1 Corinthians 13:4): 'Love is patient and kind; love does not envy or ______...'",
+        "answer": "Boast",
+        "reference": "1 Corinthians 13:4"
+    },
+    {
+        "id": 385,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Finish the verse (1 Corinthians 15:55): '\"O death, where is your victory? O death, where is your ______?\"'",
+        "answer": "Sting",
+        "reference": "1 Corinthians 15:55"
+    },
+    {
+        "id": 386,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Finish the verse (2 Corinthians 5:7): '...for we walk by faith, not by ______.'",
+        "answer": "Sight",
+        "reference": "2 Corinthians 5:7"
+    },
+    {
+        "id": 387,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (2 Corinthians 5:17): 'Therefore, if anyone is in Christ, he is a new ______.'",
+        "answer": "Creation",
+        "reference": "2 Corinthians 5:17"
+    },
+    {
+        "id": 388,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Finish the verse (2 Corinthians 12:9): '\"My grace is sufficient for you, for my power is made perfect in ______.\"'",
+        "answer": "Weakness",
+        "reference": "2 Corinthians 12:9"
+    },
+    {
+        "id": 389,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (Galatians 2:20): 'I have been crucified with Christ. It is no longer I who live, but Christ who lives in ______.'",
+        "answer": "Me",
+        "reference": "Galatians 2:20"
+    },
+    {
+        "id": 390,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Finish the verse (Galatians 6:9): 'And let us not grow weary of doing good, for in due season we will reap, if we do not ______.'",
+        "answer": "Give up",
+        "reference": "Galatians 6:9"
+    },
+    {
+        "id": 391,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (Ephesians 2:10): 'For we are his workmanship, created in Christ Jesus for good ______...'",
+        "answer": "Works",
+        "reference": "Ephesians 2:10"
+    },
+    {
+        "id": 392,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (Ephesians 4:32): 'Be kind to one another, tenderhearted, forgiving one another, as God in Christ forgave ______.'",
+        "answer": "You",
+        "reference": "Ephesians 4:32"
+    },
+    {
+        "id": 393,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Finish the verse (Philippians 1:21): 'For to me to live is Christ, and to die is ______.'",
+        "answer": "Gain",
+        "reference": "Philippians 1:21"
+    },
+    {
+        "id": 394,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (Philippians 4:6): 'Do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to ______.'",
+        "answer": "God",
+        "reference": "Philippians 4:6"
+    },
+    {
+        "id": 395,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Finish the verse (Colossians 3:23): 'Whatever you do, work heartily, as for the Lord and not for ______.'",
+        "answer": "Men",
+        "reference": "Colossians 3:23"
+    },
+    {
+        "id": 396,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Finish the verse (2 Timothy 1:7): '...for God gave us a spirit not of fear but of power and love and self-______.'",
+        "answer": "Control",
+        "reference": "2 Timothy 1:7"
+    },
+    {
+        "id": 397,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (2 Timothy 3:16): 'All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in ______.'",
+        "answer": "Righteousness",
+        "reference": "2 Timothy 3:16"
+    },
+    {
+        "id": 398,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (Hebrews 4:12): 'For the word of God is living and active, sharper than any two-edged ______...'",
+        "answer": "Sword",
+        "reference": "Hebrews 4:12"
+    },
+    {
+        "id": 399,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Finish the verse (Hebrews 13:8): 'Jesus Christ is the same yesterday and today and ______.'",
+        "answer": "Forever",
+        "reference": "Hebrews 13:8"
+    },
+    {
+        "id": 400,
+        "category": "Fill in the Blank or Finish the Verse",
+        "question": "Fill in the blank (James 1:19): '...let every person be quick to hear, slow to speak, slow to ______.'",
+        "answer": "Anger",
+        "reference": "James 1:19"
+    }
+]

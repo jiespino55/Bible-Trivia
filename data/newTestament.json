@@ -1,0 +1,702 @@
+[
+    {
+        "id": 101,
+        "category": "New Testament",
+        "question": "What three gifts did the wise men (Magi) present to the young child Jesus?",
+        "answer": "Gold, frankincense, and myrrh",
+        "reference": "Matthew 2:11"
+    },
+    {
+        "id": 102,
+        "category": "New Testament",
+        "question": "In which Galilean town did Joseph and Mary settle with Jesus after returning from Egypt?",
+        "answer": "Nazareth",
+        "reference": "Matthew 2:23"
+    },
+    {
+        "id": 103,
+        "category": "New Testament",
+        "question": "What was the diet of John the Baptist while preaching in the wilderness of Judea?",
+        "answer": "Locusts and wild honey",
+        "reference": "Matthew 3:4"
+    },
+    {
+        "id": 104,
+        "category": "New Testament",
+        "question": "According to the Beatitudes in the Sermon on the Mount, who will inherit the earth?",
+        "answer": "The meek",
+        "reference": "Matthew 5:5"
+    },
+    {
+        "id": 105,
+        "category": "New Testament",
+        "question": "What occupation did Matthew hold before Jesus called him to be a disciple?",
+        "answer": "Tax collector",
+        "reference": "Matthew 9:9"
+    },
+    {
+        "id": 106,
+        "category": "New Testament",
+        "question": "Which disciple stepped out of the boat to walk on the water toward Jesus?",
+        "answer": "Peter",
+        "reference": "Matthew 14:28-29"
+    },
+    {
+        "id": 107,
+        "category": "New Testament",
+        "question": "At Caesarea Philippi, what was Peter's confession regarding Jesus' identity?",
+        "answer": "'You are the Christ, the Son of the living God'",
+        "reference": "Matthew 16:16"
+    },
+    {
+        "id": 108,
+        "category": "New Testament",
+        "question": "Which three disciples accompanied Jesus to the Mount of Transfiguration?",
+        "answer": "Peter, James, and John",
+        "reference": "Matthew 17:1"
+    },
+    {
+        "id": 109,
+        "category": "New Testament",
+        "question": "Which two Old Testament figures appeared and talked with Jesus at His Transfiguration?",
+        "answer": "Moses and Elijah",
+        "reference": "Matthew 17:3"
+    },
+    {
+        "id": 110,
+        "category": "New Testament",
+        "question": "What did Jesus tell Peter he would find in the mouth of the first fish he caught to pay the temple tax?",
+        "answer": "A coin (a shekel / four-drachma coin)",
+        "reference": "Matthew 17:27"
+    },
+    {
+        "id": 111,
+        "category": "New Testament",
+        "question": "How much money was Judas Iscariot paid to betray Jesus to the chief priests?",
+        "answer": "Thirty pieces of silver",
+        "reference": "Matthew 26:15"
+    },
+    {
+        "id": 112,
+        "category": "New Testament",
+        "question": "In which garden did Jesus pray in agony while His disciples fell asleep before His arrest?",
+        "answer": "Gethsemane",
+        "reference": "Matthew 26:36"
+    },
+    {
+        "id": 113,
+        "category": "New Testament",
+        "question": "Which man from Cyrene was compelled by Roman soldiers to carry Jesus' cross?",
+        "answer": "Simon of Cyrene",
+        "reference": "Matthew 27:32"
+    },
+    {
+        "id": 114,
+        "category": "New Testament",
+        "question": "Who was the wealthy disciple from Arimathea that asked Pilate for Jesus' body and placed it in his own new tomb?",
+        "answer": "Joseph of Arimathea",
+        "reference": "Matthew 27:57-60"
+    },
+    {
+        "id": 115,
+        "category": "New Testament",
+        "question": "What name was given by the demon-possessed man among the tombs in the country of the Gerasenes when Jesus asked his name?",
+        "answer": "Legion",
+        "reference": "Mark 5:9"
+    },
+    {
+        "id": 116,
+        "category": "New Testament",
+        "question": "What was the name of the synagogue ruler whose twelve-year-old daughter Jesus raised from the dead?",
+        "answer": "Jairus",
+        "reference": "Mark 5:22, 41-42"
+    },
+    {
+        "id": 117,
+        "category": "New Testament",
+        "question": "What did the daughter of Herodias ask King Herod to give her on a platter?",
+        "answer": "The head of John the Baptist",
+        "reference": "Mark 6:24-25"
+    },
+    {
+        "id": 118,
+        "category": "New Testament",
+        "question": "What was the name of the blind beggar who cried out to Jesus as He was leaving Jericho?",
+        "answer": "Bartimaeus",
+        "reference": "Mark 10:46-52"
+    },
+    {
+        "id": 119,
+        "category": "New Testament",
+        "question": "How many copper coins (lepta) did the poor widow put into the temple treasury?",
+        "answer": "Two small copper coins (a penny)",
+        "reference": "Mark 12:42"
+    },
+    {
+        "id": 120,
+        "category": "New Testament",
+        "question": "What did the Roman centurion exclaim when he saw how Jesus died on the cross?",
+        "answer": "'Truly this man was the Son of God!'",
+        "reference": "Mark 15:39"
+    },
+    {
+        "id": 121,
+        "category": "New Testament",
+        "question": "Which priest was struck mute after doubting the angel's promise that his wife Elizabeth would bear a son?",
+        "answer": "Zechariah",
+        "reference": "Luke 1:18-20"
+    },
+    {
+        "id": 122,
+        "category": "New Testament",
+        "question": "Which angel appeared to Mary to announce that she would conceive and bear the Son of God?",
+        "answer": "Gabriel",
+        "reference": "Luke 1:26-31"
+    },
+    {
+        "id": 123,
+        "category": "New Testament",
+        "question": "Which Roman emperor decreed a census that required Joseph and Mary to travel to Bethlehem?",
+        "answer": "Caesar Augustus",
+        "reference": "Luke 2:1"
+    },
+    {
+        "id": 124,
+        "category": "New Testament",
+        "question": "Which righteous and devout man held baby Jesus in the temple and praised God that his eyes had seen His salvation?",
+        "answer": "Simeon",
+        "reference": "Luke 2:25-32"
+    },
+    {
+        "id": 125,
+        "category": "New Testament",
+        "question": "How old was Jesus when He stayed behind in the Jerusalem temple conversing with the teachers?",
+        "answer": "Twelve years old",
+        "reference": "Luke 2:42-46"
+    },
+    {
+        "id": 126,
+        "category": "New Testament",
+        "question": "In Jesus' parable, who stopped to care for the beaten traveler after a priest and a Levite passed by on the other side?",
+        "answer": "A Samaritan (The Good Samaritan)",
+        "reference": "Luke 10:33-35"
+    },
+    {
+        "id": 127,
+        "category": "New Testament",
+        "question": "In Bethany, which sister sat at the Lord's feet listening to His teaching while Martha was distracted with serving?",
+        "answer": "Mary",
+        "reference": "Luke 10:38-42"
+    },
+    {
+        "id": 128,
+        "category": "New Testament",
+        "question": "What did the prodigal son long to eat while working in the fields during a severe famine?",
+        "answer": "The pods that the pigs ate",
+        "reference": "Luke 15:15-16"
+    },
+    {
+        "id": 129,
+        "category": "New Testament",
+        "question": "In the parable of the rich man and Lazarus, to whose bosom (side) was Lazarus carried by the angels when he died?",
+        "answer": "Abraham's side (Abraham's bosom)",
+        "reference": "Luke 16:22"
+    },
+    {
+        "id": 130,
+        "category": "New Testament",
+        "question": "Out of the ten lepers cleansed by Jesus, how many returned to praise God and thank Him?",
+        "answer": "One (a Samaritan)",
+        "reference": "Luke 17:15-16"
+    },
+    {
+        "id": 131,
+        "category": "New Testament",
+        "question": "What kind of tree did Zacchaeus climb in Jericho in order to see Jesus above the crowd?",
+        "answer": "A sycamore tree",
+        "reference": "Luke 19:4"
+    },
+    {
+        "id": 132,
+        "category": "New Testament",
+        "question": "What did Jesus say to the penitent thief on the cross who asked Jesus to remember him?",
+        "answer": "'Truly, I say to you, today you will be with me in paradise'",
+        "reference": "Luke 23:43"
+    },
+    {
+        "id": 133,
+        "category": "New Testament",
+        "question": "To which village, seven miles from Jerusalem, were two disciples traveling when the risen Jesus joined them incognito?",
+        "answer": "Emmaus",
+        "reference": "Luke 24:13-15"
+    },
+    {
+        "id": 134,
+        "category": "New Testament",
+        "question": "According to John 1:1, what was in the beginning with God and was God?",
+        "answer": "The Word (Logos)",
+        "reference": "John 1:1"
+    },
+    {
+        "id": 135,
+        "category": "New Testament",
+        "question": "At what event in Cana did Jesus perform His first miraculous sign by turning water into wine?",
+        "answer": "A wedding (wedding feast)",
+        "reference": "John 2:1-11"
+    },
+    {
+        "id": 136,
+        "category": "New Testament",
+        "question": "Which Pharisee and ruler of the Jews came to Jesus by night to inquire about being 'born again'?",
+        "answer": "Nicodemus",
+        "reference": "John 3:1-3"
+    },
+    {
+        "id": 137,
+        "category": "New Testament",
+        "question": "At which landmark well did Jesus converse with a Samaritan woman about living water?",
+        "answer": "Jacob's well",
+        "reference": "John 4:5-6"
+    },
+    {
+        "id": 138,
+        "category": "New Testament",
+        "question": "At which pool with five roofed colonnades in Jerusalem did Jesus heal a man invalid for thirty-eight years?",
+        "answer": "The Pool of Bethesda",
+        "reference": "John 5:2-9"
+    },
+    {
+        "id": 139,
+        "category": "New Testament",
+        "question": "What food did the young boy provide that Jesus multiplied to feed the five thousand?",
+        "answer": "Five barley loaves and two fish",
+        "reference": "John 6:9"
+    },
+    {
+        "id": 140,
+        "category": "New Testament",
+        "question": "To which pool did Jesus send the man born blind to wash the mud from his eyes?",
+        "answer": "The Pool of Siloam",
+        "reference": "John 9:7"
+    },
+    {
+        "id": 141,
+        "category": "New Testament",
+        "question": "For how many days had Lazarus been dead in the tomb before Jesus raised him back to life?",
+        "answer": "Four days",
+        "reference": "John 11:17, 43-44"
+    },
+    {
+        "id": 142,
+        "category": "New Testament",
+        "question": "What is the shortest verse in the English Standard Version of the Bible?",
+        "answer": "'Jesus wept'",
+        "reference": "John 11:35"
+    },
+    {
+        "id": 143,
+        "category": "New Testament",
+        "question": "Which high priest advised the council that it was better for one man to die for the people than for the whole nation to perish?",
+        "answer": "Caiaphas",
+        "reference": "John 11:49-50"
+    },
+    {
+        "id": 144,
+        "category": "New Testament",
+        "question": "What humble task did Jesus perform for His disciples during the Last Supper to set an example of servant leadership?",
+        "answer": "Washing their feet",
+        "reference": "John 13:4-5"
+    },
+    {
+        "id": 145,
+        "category": "New Testament",
+        "question": "What was the name of the high priest's servant whose right ear Peter cut off with a sword?",
+        "answer": "Malchus",
+        "reference": "John 18:10"
+    },
+    {
+        "id": 146,
+        "category": "New Testament",
+        "question": "Who was the first person to see the risen Jesus outside the empty tomb on Sunday morning?",
+        "answer": "Mary Magdalene",
+        "reference": "John 20:14-16"
+    },
+    {
+        "id": 147,
+        "category": "New Testament",
+        "question": "Which apostle insisted he would not believe Jesus had risen unless he saw and touched the nail marks and His side?",
+        "answer": "Thomas",
+        "reference": "John 20:24-28"
+    },
+    {
+        "id": 148,
+        "category": "New Testament",
+        "question": "Which disciple was chosen by lot to replace Judas Iscariot among the twelve apostles?",
+        "answer": "Matthias",
+        "reference": "Acts 1:26"
+    },
+    {
+        "id": 149,
+        "category": "New Testament",
+        "question": "On which Jewish festival day did the Holy Spirit descend upon the apostles like divided tongues of fire?",
+        "answer": "The Day of Pentecost",
+        "reference": "Acts 2:1-4"
+    },
+    {
+        "id": 150,
+        "category": "New Testament",
+        "question": "Which husband and wife died immediately after lying to the Holy Spirit regarding the proceeds of their land?",
+        "answer": "Ananias and Sapphira",
+        "reference": "Acts 5:1-10"
+    },
+    {
+        "id": 151,
+        "category": "New Testament",
+        "question": "Who was the first Christian martyr, stoned to death while asking God not to hold this sin against his executioners?",
+        "answer": "Stephen",
+        "reference": "Acts 7:58-60"
+    },
+    {
+        "id": 152,
+        "category": "New Testament",
+        "question": "Which sorcerer in Samaria attempted to buy the power of conferring the Holy Spirit with money?",
+        "answer": "Simon (Simon the magician)",
+        "reference": "Acts 8:18-19"
+    },
+    {
+        "id": 153,
+        "category": "New Testament",
+        "question": "Which prophet was the Ethiopian eunuch reading from when Philip joined his chariot?",
+        "answer": "Isaiah",
+        "reference": "Acts 8:28-30"
+    },
+    {
+        "id": 154,
+        "category": "New Testament",
+        "question": "Near which city was Saul traveling when a blinding light from heaven shone around him and Jesus spoke to him?",
+        "answer": "Damascus",
+        "reference": "Acts 9:3-5"
+    },
+    {
+        "id": 155,
+        "category": "New Testament",
+        "question": "Which disciple in Damascus was sent by the Lord to lay hands on Saul and restore his sight?",
+        "answer": "Ananias",
+        "reference": "Acts 9:10-17"
+    },
+    {
+        "id": 156,
+        "category": "New Testament",
+        "question": "What woman in Joppa, renowned for her good works and making garments for widows, was raised from the dead by Peter?",
+        "answer": "Tabitha (also called Dorcas)",
+        "reference": "Acts 9:36-40"
+    },
+    {
+        "id": 157,
+        "category": "New Testament",
+        "question": "Who was the devout Roman centurion in Caesarea whose angelic vision led Peter to preach the gospel to Gentiles?",
+        "answer": "Cornelius",
+        "reference": "Acts 10:1-2"
+    },
+    {
+        "id": 158,
+        "category": "New Testament",
+        "question": "In which city were the disciples of Jesus first called 'Christians'?",
+        "answer": "Antioch",
+        "reference": "Acts 11:26"
+    },
+    {
+        "id": 159,
+        "category": "New Testament",
+        "question": "Which apostle, the brother of John, was executed with the sword by King Herod Agrippa?",
+        "answer": "James",
+        "reference": "Acts 12:1-2"
+    },
+    {
+        "id": 160,
+        "category": "New Testament",
+        "question": "What was the name of the servant girl who recognized Peter's voice at the gate after an angel freed him from prison?",
+        "answer": "Rhoda",
+        "reference": "Acts 12:13-14"
+    },
+    {
+        "id": 161,
+        "category": "New Testament",
+        "question": "Who was the businesswoman and seller of purple goods from Thyatira whose heart the Lord opened in Philippi?",
+        "answer": "Lydia",
+        "reference": "Acts 16:14-15"
+    },
+    {
+        "id": 162,
+        "category": "New Testament",
+        "question": "At what council/meeting place in Athens did Paul deliver his sermon regarding the 'Unknown God'?",
+        "answer": "The Areopagus (Mars Hill)",
+        "reference": "Acts 17:22-23"
+    },
+    {
+        "id": 163,
+        "category": "New Testament",
+        "question": "Which Jewish tentmaker couple hosted Paul in Corinth and later explained the way of God more accurately to Apollos?",
+        "answer": "Aquila and Priscilla",
+        "reference": "Acts 18:2-3, 26"
+    },
+    {
+        "id": 164,
+        "category": "New Testament",
+        "question": "Which silversmith in Ephesus sparked a citywide riot because Paul's preaching threatened the trade of Artemis shrines?",
+        "answer": "Demetrius",
+        "reference": "Acts 19:24-28"
+    },
+    {
+        "id": 165,
+        "category": "New Testament",
+        "question": "Which young man sank into a deep sleep during Paul's late-night sermon in Troas, fell from a third-story window, and was revived by Paul?",
+        "answer": "Eutychus",
+        "reference": "Acts 20:9-10"
+    },
+    {
+        "id": 166,
+        "category": "New Testament",
+        "question": "On which Mediterranean island was Paul shipwrecked while being transported under guard to Rome?",
+        "answer": "Malta",
+        "reference": "Acts 28:1"
+    },
+    {
+        "id": 167,
+        "category": "New Testament",
+        "question": "Who was Paul's amanuensis (scribe) who penned the letter to the Romans and added his own greeting?",
+        "answer": "Tertius",
+        "reference": "Romans 16:22"
+    },
+    {
+        "id": 168,
+        "category": "New Testament",
+        "question": "According to Romans 6:23, what are the wages of sin?",
+        "answer": "Death",
+        "reference": "Romans 6:23"
+    },
+    {
+        "id": 169,
+        "category": "New Testament",
+        "question": "According to Romans 10:17, through what does faith come?",
+        "answer": "Hearing the word of Christ",
+        "reference": "Romans 10:17"
+    },
+    {
+        "id": 170,
+        "category": "New Testament",
+        "question": "In 1 Corinthians 13:13, which three virtues remain, and which of them is identified as the greatest?",
+        "answer": "Faith, hope, and love; the greatest is love",
+        "reference": "1 Corinthians 13:13"
+    },
+    {
+        "id": 171,
+        "category": "New Testament",
+        "question": "According to 1 Corinthians 15:52, in how much time will believers be transformed at the last trumpet?",
+        "answer": "In a moment, in the twinkling of an eye",
+        "reference": "1 Corinthians 15:52"
+    },
+    {
+        "id": 172,
+        "category": "New Testament",
+        "question": "What recurring physical affliction did Paul plead with the Lord three times to take away from him?",
+        "answer": "A thorn in the flesh",
+        "reference": "2 Corinthians 12:7-8"
+    },
+    {
+        "id": 173,
+        "category": "New Testament",
+        "question": "According to 2 Corinthians 9:7, what kind of giver does God love?",
+        "answer": "A cheerful giver",
+        "reference": "2 Corinthians 9:7"
+    },
+    {
+        "id": 174,
+        "category": "New Testament",
+        "question": "Which apostle did Paul publicly oppose to his face in Antioch for withdrawing from eating with Gentile believers?",
+        "answer": "Cephas (Peter)",
+        "reference": "Galatians 2:11-12"
+    },
+    {
+        "id": 175,
+        "category": "New Testament",
+        "question": "How many fruit of the Spirit are explicitly enumerated by Paul in Galatians 5:22-23?",
+        "answer": "Nine",
+        "reference": "Galatians 5:22-23"
+    },
+    {
+        "id": 176,
+        "category": "New Testament",
+        "question": "According to Ephesians 2:8-9, believers are saved by grace through what?",
+        "answer": "Faith",
+        "reference": "Ephesians 2:8-9"
+    },
+    {
+        "id": 177,
+        "category": "New Testament",
+        "question": "In the armor of God described in Ephesians 6, what offensive weapon represents the Word of God?",
+        "answer": "The sword of the Spirit",
+        "reference": "Ephesians 6:17"
+    },
+    {
+        "id": 178,
+        "category": "New Testament",
+        "question": "Which fellow worker and messenger from Philippi fell severely ill while delivering support to Paul in prison?",
+        "answer": "Epaphroditus",
+        "reference": "Philippians 2:25-27"
+    },
+    {
+        "id": 179,
+        "category": "New Testament",
+        "question": "According to Philippians 4:13, how can Paul do all things?",
+        "answer": "Through Him who strengthens him",
+        "reference": "Philippians 4:13"
+    },
+    {
+        "id": 180,
+        "category": "New Testament",
+        "question": "Which companion of Paul is described in Colossians 4:14 as 'the beloved physician'?",
+        "answer": "Luke",
+        "reference": "Colossians 4:14"
+    },
+    {
+        "id": 181,
+        "category": "New Testament",
+        "question": "What three-word exhortation regarding communication with God appears in 1 Thessalonians 5:17?",
+        "answer": "'Pray without ceasing'",
+        "reference": "1 Thessalonians 5:17"
+    },
+    {
+        "id": 182,
+        "category": "New Testament",
+        "question": "What was the name of Timothy's mother and grandmother whom Paul commended for their sincere faith?",
+        "answer": "Eunice (mother) and Lois (grandmother)",
+        "reference": "2 Timothy 1:5"
+    },
+    {
+        "id": 183,
+        "category": "New Testament",
+        "question": "According to 1 Timothy 6:10, what is a root of all kinds of evils?",
+        "answer": "The love of money",
+        "reference": "1 Timothy 6:10"
+    },
+    {
+        "id": 184,
+        "category": "New Testament",
+        "question": "Which companion deserted Paul during his second Roman imprisonment because he was in love with this present world?",
+        "answer": "Demas",
+        "reference": "2 Timothy 4:10"
+    },
+    {
+        "id": 185,
+        "category": "New Testament",
+        "question": "On which Mediterranean island did Paul leave Titus to appoint elders in every town?",
+        "answer": "Crete",
+        "reference": "Titus 1:5"
+    },
+    {
+        "id": 186,
+        "category": "New Testament",
+        "question": "What was the name of the runaway slave for whom Paul wrote a personal appeal to Philemon?",
+        "answer": "Onesimus",
+        "reference": "Philemon 1:10-16"
+    },
+    {
+        "id": 187,
+        "category": "New Testament",
+        "question": "Which mysterious ancient king of Salem and priest of God Most High serves as a type for Christ's eternal priesthood in Hebrews?",
+        "answer": "Melchizedek",
+        "reference": "Hebrews 7:1-3"
+    },
+    {
+        "id": 188,
+        "category": "New Testament",
+        "question": "Which chapter in Hebrews is famously referred to as the 'Hall of Faith' because it recounts Old Testament heroes of faith?",
+        "answer": "Hebrews 11",
+        "reference": "Hebrews 11:1-40"
+    },
+    {
+        "id": 189,
+        "category": "New Testament",
+        "question": "According to Hebrews 12:2, who is Jesus described as regarding our faith?",
+        "answer": "The founder and perfecter of our faith",
+        "reference": "Hebrews 12:2"
+    },
+    {
+        "id": 190,
+        "category": "New Testament",
+        "question": "In James 3, what small part of the human body is compared to the bit in a horse's mouth and the rudder of a ship?",
+        "answer": "The tongue",
+        "reference": "James 3:3-5"
+    },
+    {
+        "id": 191,
+        "category": "New Testament",
+        "question": "According to James 2:17, faith by itself without what is dead?",
+        "answer": "Works",
+        "reference": "James 2:17"
+    },
+    {
+        "id": 192,
+        "category": "New Testament",
+        "question": "To what prowling animal does 1 Peter 5:8 compare the devil, looking for someone to devour?",
+        "answer": "A roaring lion",
+        "reference": "1 Peter 5:8"
+    },
+    {
+        "id": 193,
+        "category": "New Testament",
+        "question": "According to 2 Peter 3:8, with the Lord one day is as how many years?",
+        "answer": "A thousand years",
+        "reference": "2 Peter 3:8"
+    },
+    {
+        "id": 194,
+        "category": "New Testament",
+        "question": "According to 1 John 4:8 and 4:16, what concise three-word phrase defines God's essential nature?",
+        "answer": "'God is love'",
+        "reference": "1 John 4:8, 16"
+    },
+    {
+        "id": 195,
+        "category": "New Testament",
+        "question": "Which church leader is rebuked in 3 John for liking to put himself first and refusing to welcome the brothers?",
+        "answer": "Diotrephes",
+        "reference": "3 John 1:9-10"
+    },
+    {
+        "id": 196,
+        "category": "New Testament",
+        "question": "In the Epistle of Jude, which archangel contended with the devil over the body of Moses without pronouncing a reviling judgment?",
+        "answer": "Michael",
+        "reference": "Jude 1:9"
+    },
+    {
+        "id": 197,
+        "category": "New Testament",
+        "question": "On which Greek island was the apostle John exiled when he received the apocalyptic revelation of Jesus Christ?",
+        "answer": "Patmos",
+        "reference": "Revelation 1:9"
+    },
+    {
+        "id": 198,
+        "category": "New Testament",
+        "question": "To how many specific churches in the province of Asia did John address letters in Revelation chapters 2 and 3?",
+        "answer": "Seven churches",
+        "reference": "Revelation 1:11, 2:1-3:22"
+    },
+    {
+        "id": 199,
+        "category": "New Testament",
+        "question": "What was the name of the fallen burning star in Revelation 8 that poisoned a third of the rivers and waters, making them bitter?",
+        "answer": "Wormwood",
+        "reference": "Revelation 8:10-11"
+    },
+    {
+        "id": 200,
+        "category": "New Testament",
+        "question": "How many gates does the New Jerusalem have, each made from a single pearl?",
+        "answer": "Twelve gates",
+        "reference": "Revelation 21:12, 21"
+    }
+]

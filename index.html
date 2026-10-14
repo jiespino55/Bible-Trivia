@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Bible Trivia</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Bible Trivia</h1>
+    <p>Welcome to Bible Trivia!</p>
+
+    <button id="libraryBtn">Question Library</button>
+    <button id="startBtn">Play Game</button>
+
+    <div id="librarySection" style="display: none;">
+
+        <h2>Question Library</h2>
+
+        <label for="categoryFilter">Choose a category:</label>
+
+        <select id="categoryFilter">
+            <option value="all">All Categories</option>
+        </select>
+
+        <div id="questionLibrary"></div>
+
+    </div>
+
+    <div id="gameSetup" style="display: none;">
+
+        <h2>New Trivia Game</h2>
+
+        <p>Select the categories you want to include:</p>
+
+        <div id="categoryCheckboxes"></div>
+
+        <button id="beginGameBtn">Begin Game</button>
+
+    </div>
+
+    <div id="hostView" style="display: none;">
+
+        <h2>Bible Trivia</h2>
+
+        <p id="questionNumber"></p>
+        <p id="questionCategory"></p>
+
+        <h2 id="currentQuestion"></h2>
+
+        <div id="answerSection">
+            <h3 id="currentAnswer"></h3>
+            <p id="currentReference"></p>
+        </div>
+
+        <div>
+            <button id="previousBtn">Previous</button>
+            <button id="nextBtn">Next Question</button>
+            <button id="endGameBtn">End Game</button>
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

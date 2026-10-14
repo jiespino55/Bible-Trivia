@@ -1,0 +1,702 @@
+[
+    {
+        "id": 201,
+        "category": "Bible Characters",
+        "question": "Which biblical figure walked with God and 'was not, for God took him' without dying?",
+        "answer": "Enoch",
+        "reference": "Genesis 5:24"
+    },
+    {
+        "id": 202,
+        "category": "Bible Characters",
+        "question": "Who is recorded in Genesis as the longest-living person, dying at the age of 969 years?",
+        "answer": "Methuselah",
+        "reference": "Genesis 5:27"
+    },
+    {
+        "id": 203,
+        "category": "Bible Characters",
+        "question": "Who is described in Genesis 10 as 'a mighty hunter before the LORD' and the founder of Babel?",
+        "answer": "Nimrod",
+        "reference": "Genesis 10:8-10"
+    },
+    {
+        "id": 204,
+        "category": "Bible Characters",
+        "question": "Which nephew of Abraham chose to live in the fertile Jordan valley near Sodom?",
+        "answer": "Lot",
+        "reference": "Genesis 13:10-12"
+    },
+    {
+        "id": 205,
+        "category": "Bible Characters",
+        "question": "Which priest-king of Salem brought out bread and wine and blessed Abraham?",
+        "answer": "Melchizedek",
+        "reference": "Genesis 14:18-19"
+    },
+    {
+        "id": 206,
+        "category": "Bible Characters",
+        "question": "Which Egyptian maidservant of Sarah became the mother of Ishmael?",
+        "answer": "Hagar",
+        "reference": "Genesis 16:1-3"
+    },
+    {
+        "id": 207,
+        "category": "Bible Characters",
+        "question": "Which uncle of Jacob deceived him into marrying Leah before Rachel?",
+        "answer": "Laban",
+        "reference": "Genesis 29:21-25"
+    },
+    {
+        "id": 208,
+        "category": "Bible Characters",
+        "question": "Which older sister of Rachel was described as having 'weak eyes' and bore Jacob his first four sons?",
+        "answer": "Leah",
+        "reference": "Genesis 29:16-17, 31-35"
+    },
+    {
+        "id": 209,
+        "category": "Bible Characters",
+        "question": "Which son of Jacob suggested selling Joseph to the Ishmaelites instead of leaving him in the pit?",
+        "answer": "Judah",
+        "reference": "Genesis 37:26-27"
+    },
+    {
+        "id": 210,
+        "category": "Bible Characters",
+        "question": "Which daughter of Jacob was defiled by Shechem in the land of Canaan?",
+        "answer": "Dinah",
+        "reference": "Genesis 34:1-2"
+    },
+    {
+        "id": 211,
+        "category": "Bible Characters",
+        "question": "Which daughter-in-law of Judah disguised herself as a veiled woman and bore twin sons, Perez and Zerah?",
+        "answer": "Tamar",
+        "reference": "Genesis 38:13-18, 29-30"
+    },
+    {
+        "id": 212,
+        "category": "Bible Characters",
+        "question": "What Egyptian name did Pharaoh give to Joseph when promoting him to second-in-command of Egypt?",
+        "answer": "Zaphenath-paneah",
+        "reference": "Genesis 41:45"
+    },
+    {
+        "id": 213,
+        "category": "Bible Characters",
+        "question": "Who was Joseph's Egyptian wife, the daughter of Potiphera priest of On?",
+        "answer": "Asenath",
+        "reference": "Genesis 41:45"
+    },
+    {
+        "id": 214,
+        "category": "Bible Characters",
+        "question": "Who was Moses' father-in-law, a priest of Midian who advised him to appoint judges over Israel?",
+        "answer": "Jethro (Reuel)",
+        "reference": "Exodus 18:1, 13-24"
+    },
+    {
+        "id": 215,
+        "category": "Bible Characters",
+        "question": "Which Midianite woman was the wife of Moses, whom he met at a well in Midian?",
+        "answer": "Zipporah",
+        "reference": "Exodus 2:21"
+    },
+    {
+        "id": 216,
+        "category": "Bible Characters",
+        "question": "Which prophetess and sister of Moses led the Israelite women with a tambourine after crossing the Red Sea?",
+        "answer": "Miriam",
+        "reference": "Exodus 15:20-21"
+    },
+    {
+        "id": 217,
+        "category": "Bible Characters",
+        "question": "Which two men held up Moses' hands during the battle against Amalek until sunset?",
+        "answer": "Aaron and Hur",
+        "reference": "Exodus 17:12"
+    },
+    {
+        "id": 218,
+        "category": "Bible Characters",
+        "question": "Which Levite led a famous rebellion against Moses and Aaron, resulting in the earth swallowing him up?",
+        "answer": "Korah",
+        "reference": "Numbers 16:1-32"
+    },
+    {
+        "id": 219,
+        "category": "Bible Characters",
+        "question": "Which companion of Joshua wholeheartedly followed the Lord and requested Mount Hebron as his inheritance at age 85?",
+        "answer": "Caleb",
+        "reference": "Joshua 14:10-14"
+    },
+    {
+        "id": 220,
+        "category": "Bible Characters",
+        "question": "Which king of Moab hired the seer Balaam to put a curse upon Israel?",
+        "answer": "Balak",
+        "reference": "Numbers 22:2-6"
+    },
+    {
+        "id": 221,
+        "category": "Bible Characters",
+        "question": "Which grandson of Aaron turned away God's wrath by executing an idolatrous Israelite man and Midianite woman with a spear?",
+        "answer": "Phinehas",
+        "reference": "Numbers 25:6-11"
+    },
+    {
+        "id": 222,
+        "category": "Bible Characters",
+        "question": "Which left-handed judge from the tribe of Benjamin assassinated the Moabite king Eglon with a double-edged dagger?",
+        "answer": "Ehud",
+        "reference": "Judges 3:15-22"
+    },
+    {
+        "id": 223,
+        "category": "Bible Characters",
+        "question": "Which judge struck down 600 Philistines with an oxgoad?",
+        "answer": "Shamgar",
+        "reference": "Judges 3:31"
+    },
+    {
+        "id": 224,
+        "category": "Bible Characters",
+        "question": "Which military commander refused to go into battle against Sisera unless the judge Deborah accompanied him?",
+        "answer": "Barak",
+        "reference": "Judges 4:8"
+    },
+    {
+        "id": 225,
+        "category": "Bible Characters",
+        "question": "Which woman killed the Canaanite general Sisera by driving a tent peg through his temple?",
+        "answer": "Jael",
+        "reference": "Judges 4:21"
+    },
+    {
+        "id": 226,
+        "category": "Bible Characters",
+        "question": "Which judge made a rash vow before defeating the Ammonites that resulted in dedicating his only daughter?",
+        "answer": "Jephthah",
+        "reference": "Judges 11:30-35"
+    },
+    {
+        "id": 227,
+        "category": "Bible Characters",
+        "question": "Which Danite was the father of the strong judge Samson?",
+        "answer": "Manoah",
+        "reference": "Judges 13:2, 24"
+    },
+    {
+        "id": 228,
+        "category": "Bible Characters",
+        "question": "Which sister-in-law of Ruth kissed Naomi goodbye and returned to her people and her gods in Moab?",
+        "answer": "Orpah",
+        "reference": "Ruth 1:14-15"
+    },
+    {
+        "id": 229,
+        "category": "Bible Characters",
+        "question": "Which husband of Hannah had two wives and showed deep love for Hannah despite her barrenness?",
+        "answer": "Elkanah",
+        "reference": "1 Samuel 1:1-5"
+    },
+    {
+        "id": 230,
+        "category": "Bible Characters",
+        "question": "Which two corrupt sons of Eli served as priests in Shiloh and died on the same day in battle?",
+        "answer": "Hophni and Phinehas",
+        "reference": "1 Samuel 2:12, 4:11"
+    },
+    {
+        "id": 231,
+        "category": "Bible Characters",
+        "question": "Which daughter of Saul loved David and was given to him in marriage after David produced 200 Philistine foreskins?",
+        "answer": "Michal",
+        "reference": "1 Samuel 18:20-27"
+    },
+    {
+        "id": 232,
+        "category": "Bible Characters",
+        "question": "Which Edomite herdsman of King Saul informed on the priests at Nob and executed eighty-five of them?",
+        "answer": "Doeg the Edomite",
+        "reference": "1 Samuel 22:9-18"
+    },
+    {
+        "id": 233,
+        "category": "Bible Characters",
+        "question": "Which foolish, wealthy Carmelite rancher refused hospitality to David's men, prompting his wife Abigail's intervention?",
+        "answer": "Nabal",
+        "reference": "1 Samuel 25:3, 10-11"
+    },
+    {
+        "id": 234,
+        "category": "Bible Characters",
+        "question": "Which general served as the supreme commander of King Saul's army?",
+        "answer": "Abner",
+        "reference": "1 Samuel 14:50"
+    },
+    {
+        "id": 235,
+        "category": "Bible Characters",
+        "question": "Which fierce nephew of David served as the commander of David's royal army?",
+        "answer": "Joab",
+        "reference": "2 Samuel 8:16"
+    },
+    {
+        "id": 236,
+        "category": "Bible Characters",
+        "question": "Which brother of Joab was famous for being swift-footed as a wild gazelle, but was killed in pursuit of Abner?",
+        "answer": "Asahel",
+        "reference": "2 Samuel 2:18-23"
+    },
+    {
+        "id": 237,
+        "category": "Bible Characters",
+        "question": "Which Hittite soldier and husband of Bathsheba was deliberately sent to the front lines to die by King David?",
+        "answer": "Uriah the Hittite",
+        "reference": "2 Samuel 11:14-17"
+    },
+    {
+        "id": 238,
+        "category": "Bible Characters",
+        "question": "Which counselor of David defected to Absalom, but hanged himself when his counsel was rejected?",
+        "answer": "Ahithophel",
+        "reference": "2 Samuel 15:31, 17:23"
+    },
+    {
+        "id": 239,
+        "category": "Bible Characters",
+        "question": "Which loyal friend and counselor of David infiltrated Absalom's court to defeat the advice of Ahithophel?",
+        "answer": "Hushai the Archite",
+        "reference": "2 Samuel 15:32-37, 17:14"
+    },
+    {
+        "id": 240,
+        "category": "Bible Characters",
+        "question": "Which Benjamite from the house of Saul cursed David and pelted him with stones as David fled Jerusalem?",
+        "answer": "Shimei",
+        "reference": "2 Samuel 16:5-6"
+    },
+    {
+        "id": 241,
+        "category": "Bible Characters",
+        "question": "Which elder son of David attempted to usurp the throne of Israel in David's old age before Solomon was crowned?",
+        "answer": "Adonijah",
+        "reference": "1 Kings 1:5-10"
+    },
+    {
+        "id": 242,
+        "category": "Bible Characters",
+        "question": "Which mother of Solomon successfully petitioned aged David to crown Solomon as king?",
+        "answer": "Bathsheba",
+        "reference": "1 Kings 1:15-31"
+    },
+    {
+        "id": 243,
+        "category": "Bible Characters",
+        "question": "Which Phoenician princess married King Ahab and vigorously promoted the worship of Baal in Israel?",
+        "answer": "Jezebel",
+        "reference": "1 Kings 16:31"
+    },
+    {
+        "id": 244,
+        "category": "Bible Characters",
+        "question": "Which righteous palace administrator of Ahab hid one hundred prophets of the Lord in caves to protect them from Jezebel?",
+        "answer": "Obadiah",
+        "reference": "1 Kings 18:3-4"
+    },
+    {
+        "id": 245,
+        "category": "Bible Characters",
+        "question": "Which prophet consistently prophesied truth to King Ahab, famously saying 'I saw all Israel scattered on the mountains'?",
+        "answer": "Micaiah son of Imlah",
+        "reference": "1 Kings 22:13-17"
+    },
+    {
+        "id": 246,
+        "category": "Bible Characters",
+        "question": "Which commander of Israel drove his chariot furiously and executed judgment upon the house of Ahab and the priests of Baal?",
+        "answer": "Jehu",
+        "reference": "2 Kings 9:20, 10:18-28"
+    },
+    {
+        "id": 247,
+        "category": "Bible Characters",
+        "question": "Which wicked queen mother seized the throne of Judah and attempted to destroy all royal heirs after the death of her son Ahaziah?",
+        "answer": "Athaliah",
+        "reference": "2 Kings 11:1-3"
+    },
+    {
+        "id": 248,
+        "category": "Bible Characters",
+        "question": "Which high priest safeguarded the young Prince Joash and led the covenant renewal that restored worship in Judah?",
+        "answer": "Jehoiada",
+        "reference": "2 Kings 11:4-17"
+    },
+    {
+        "id": 249,
+        "category": "Bible Characters",
+        "question": "Which prophetess in Jerusalem was consulted by King Josiah's officials after the Book of the Law was rediscovered in the temple?",
+        "answer": "Huldah",
+        "reference": "2 Kings 22:14-20"
+    },
+    {
+        "id": 250,
+        "category": "Bible Characters",
+        "question": "Which Ethiopian official in the royal palace rescued the prophet Jeremiah from dying in a muddy cistern?",
+        "answer": "Ebed-melech",
+        "reference": "Jeremiah 38:7-13"
+    },
+    {
+        "id": 251,
+        "category": "Bible Characters",
+        "question": "Which governor of Judah was appointed by Babylon following the fall of Jerusalem, only to be assassinated by Ishmael son of Nethaniah?",
+        "answer": "Gedaliah",
+        "reference": "2 Kings 25:22-25"
+    },
+    {
+        "id": 252,
+        "category": "Bible Characters",
+        "question": "Which elderly prophetess in the temple never departed, worshiping with fasting and prayer night and day when baby Jesus was presented?",
+        "answer": "Anna",
+        "reference": "Luke 2:36-38"
+    },
+    {
+        "id": 253,
+        "category": "Bible Characters",
+        "question": "Which cousin of Mary and mother of John the Baptist was of the daughters of Aaron?",
+        "answer": "Elizabeth",
+        "reference": "Luke 1:5, 36"
+    },
+    {
+        "id": 254,
+        "category": "Bible Characters",
+        "question": "Which Roman procurator of Judea presided over the trial of Jesus and washed his hands of His blood?",
+        "answer": "Pontius Pilate",
+        "reference": "Matthew 27:24"
+    },
+    {
+        "id": 255,
+        "category": "Bible Characters",
+        "question": "Which notorious prisoner was released by Pontius Pilate to the crowd instead of Jesus?",
+        "answer": "Barabbas",
+        "reference": "Matthew 27:21, 26"
+    },
+    {
+        "id": 256,
+        "category": "Bible Characters",
+        "question": "Which brother of Simon Peter was also a disciple of John the Baptist before introducing Peter to Jesus?",
+        "answer": "Andrew",
+        "reference": "John 1:40-42"
+    },
+    {
+        "id": 257,
+        "category": "Bible Characters",
+        "question": "Which disciple responded with skepticism to Philip, asking 'Can anything good come out of Nazareth?'",
+        "answer": "Nathanael (Bartholomew)",
+        "reference": "John 1:45-46"
+    },
+    {
+        "id": 258,
+        "category": "Bible Characters",
+        "question": "Which two apostle brothers were nicknamed by Jesus 'Boanerges', meaning 'Sons of Thunder'?",
+        "answer": "James and John (sons of Zebedee)",
+        "reference": "Mark 3:17"
+    },
+    {
+        "id": 259,
+        "category": "Bible Characters",
+        "question": "Which father of James and John was left in the fishing boat with the hired servants when his sons followed Jesus?",
+        "answer": "Zebedee",
+        "reference": "Mark 1:19-20"
+    },
+    {
+        "id": 260,
+        "category": "Bible Characters",
+        "question": "Which member of the Jewish council assisted Joseph of Arimathea by bringing seventy-five pounds of myrrh and aloes for Jesus' burial?",
+        "answer": "Nicodemus",
+        "reference": "John 19:39"
+    },
+    {
+        "id": 261,
+        "category": "Bible Characters",
+        "question": "Out of which woman did Jesus cast seven demons, and who later became the first witness to His resurrection?",
+        "answer": "Mary Magdalene",
+        "reference": "Mark 16:9, Luke 8:2"
+    },
+    {
+        "id": 262,
+        "category": "Bible Characters",
+        "question": "Which wife of Chuza, Herod's household manager, provided for Jesus and His disciples out of her personal means?",
+        "answer": "Joanna",
+        "reference": "Luke 8:3"
+    },
+    {
+        "id": 263,
+        "category": "Bible Characters",
+        "question": "Which sister of Lazarus and Martha anointed the feet of Jesus with expensive pure nard and wiped them with her hair?",
+        "answer": "Mary of Bethany",
+        "reference": "John 12:1-3"
+    },
+    {
+        "id": 264,
+        "category": "Bible Characters",
+        "question": "Which ruler of Galilee interrogated Jesus during His passion and mocked Him by dressing Him in splendid clothing?",
+        "answer": "Herod Antipas",
+        "reference": "Luke 23:7-11"
+    },
+    {
+        "id": 265,
+        "category": "Bible Characters",
+        "question": "Which former high priest and father-in-law to Caiaphas interrogated Jesus first after His arrest in Gethsemane?",
+        "answer": "Annas",
+        "reference": "John 18:13"
+    },
+    {
+        "id": 266,
+        "category": "Bible Characters",
+        "question": "Which disciple is also called Didymus, meaning 'the Twin'?",
+        "answer": "Thomas",
+        "reference": "John 11:16, 20:24"
+    },
+    {
+        "id": 267,
+        "category": "Bible Characters",
+        "question": "Which Levite from Cyprus was named Joseph by the apostles, but called 'Son of Encouragement' after selling a field?",
+        "answer": "Barnabas",
+        "reference": "Acts 4:36-37"
+    },
+    {
+        "id": 268,
+        "category": "Bible Characters",
+        "question": "Which respected Pharisee and teacher of the law in the Sanhedrin advised the council to leave the apostles alone?",
+        "answer": "Gamaliel",
+        "reference": "Acts 5:34-39"
+    },
+    {
+        "id": 269,
+        "category": "Bible Characters",
+        "question": "Which evangelist, one of the seven chosen deacons, preached Christ in Samaria and led an Ethiopian court official to faith?",
+        "answer": "Philip the Evangelist",
+        "reference": "Acts 6:5, 8:4-5, 26-38"
+    },
+    {
+        "id": 270,
+        "category": "Bible Characters",
+        "question": "Which queen of the Ethiopians did the royal eunuch serve as chief treasurer?",
+        "answer": "Candace",
+        "reference": "Acts 8:27"
+    },
+    {
+        "id": 271,
+        "category": "Bible Characters",
+        "question": "Which paralyzed man in Lydda was bedridden for eight years until Peter said 'Jesus Christ heals you'?",
+        "answer": "Aeneas",
+        "reference": "Acts 9:33-34"
+    },
+    {
+        "id": 272,
+        "category": "Bible Characters",
+        "question": "Which tanner lived by the sea in Joppa and hosted the apostle Peter when Peter had his vision of clean and unclean animals?",
+        "answer": "Simon the tanner",
+        "reference": "Acts 9:43, 10:5-6"
+    },
+    {
+        "id": 273,
+        "category": "Bible Characters",
+        "question": "Which prophet from Jerusalem traveled to Antioch and predicted by the Spirit a great worldwide famine under Claudius?",
+        "answer": "Agabus",
+        "reference": "Acts 11:27-28"
+    },
+    {
+        "id": 274,
+        "category": "Bible Characters",
+        "question": "Which king of Judea was eaten by worms and died after accepting praise as a god and not giving glory to the LORD?",
+        "answer": "Herod Agrippa I",
+        "reference": "Acts 12:21-23"
+    },
+    {
+        "id": 275,
+        "category": "Bible Characters",
+        "question": "Which Jewish false prophet and magician in Paphos was struck blind by Paul on Cyprus?",
+        "answer": "Elymas (Bar-Jesus)",
+        "reference": "Acts 13:6-11"
+    },
+    {
+        "id": 276,
+        "category": "Bible Characters",
+        "question": "Which proconsul of Cyprus believed the gospel after witnessing the blinding of Elymas the magician?",
+        "answer": "Sergius Paulus",
+        "reference": "Acts 13:7, 12"
+    },
+    {
+        "id": 277,
+        "category": "Bible Characters",
+        "question": "Which cousin of Barnabas departed from Paul and Barnabas in Pamphylia, causing a sharp dispute before their second missionary journey?",
+        "answer": "John Mark",
+        "reference": "Acts 13:13, 15:37-39"
+    },
+    {
+        "id": 278,
+        "category": "Bible Characters",
+        "question": "Which leading brother from the Jerusalem church accompanied Paul on his second missionary journey and sang hymns with him in the Philippian jail?",
+        "answer": "Silas (Silvanus)",
+        "reference": "Acts 15:40, 16:25"
+    },
+    {
+        "id": 279,
+        "category": "Bible Characters",
+        "question": "Which Athenian magistrate on the Areopagus believed the gospel after hearing Paul's sermon on Mars Hill?",
+        "answer": "Dionysius the Areopagite",
+        "reference": "Acts 17:34"
+    },
+    {
+        "id": 280,
+        "category": "Bible Characters",
+        "question": "Which ruler of the synagogue in Corinth believed in the Lord with his entire household under Paul's ministry?",
+        "answer": "Crispus",
+        "reference": "Acts 18:8"
+    },
+    {
+        "id": 281,
+        "category": "Bible Characters",
+        "question": "Which eloquent native of Alexandria was competent in the Scriptures, but knew only the baptism of John until Aquila and Priscilla instructed him?",
+        "answer": "Apollos",
+        "reference": "Acts 18:24-26"
+    },
+    {
+        "id": 282,
+        "category": "Bible Characters",
+        "question": "Which Jewish high priest had seven sons who were overpowered and stripped naked by an evil spirit they tried to cast out in Jesus' name?",
+        "answer": "Sceva",
+        "reference": "Acts 19:14-16"
+    },
+    {
+        "id": 283,
+        "category": "Bible Characters",
+        "question": "Which Roman proconsul of Achaia dismissed charges brought against Paul by the Jews, stating it was a matter of internal Jewish law?",
+        "answer": "Gallio",
+        "reference": "Acts 18:12-17"
+    },
+    {
+        "id": 284,
+        "category": "Bible Characters",
+        "question": "Which high priest in Jerusalem ordered Paul to be struck on the mouth, whom Paul called a 'whitewashed wall'?",
+        "answer": "Ananias",
+        "reference": "Acts 23:1-3"
+    },
+    {
+        "id": 285,
+        "category": "Bible Characters",
+        "question": "Which Roman commander (tribune) in Jerusalem rescued Paul from a violent mob and sent him safely to Caesarea under heavy guard?",
+        "answer": "Claudius Lysias",
+        "reference": "Acts 23:23-26"
+    },
+    {
+        "id": 286,
+        "category": "Bible Characters",
+        "question": "Which Roman governor kept Paul imprisoned in Caesarea for two years hoping to receive a bribe from him?",
+        "answer": "Felix (Antonius Felix)",
+        "reference": "Acts 24:26-27"
+    },
+    {
+        "id": 287,
+        "category": "Bible Characters",
+        "question": "Which Jewish wife of Governor Felix listened with her husband to Paul speak about faith in Christ Jesus?",
+        "answer": "Drusilla",
+        "reference": "Acts 24:24"
+    },
+    {
+        "id": 288,
+        "category": "Bible Characters",
+        "question": "Which Roman governor succeeded Felix and granted Paul's appeal to be tried before Caesar?",
+        "answer": "Porcius Festus",
+        "reference": "Acts 24:27, 25:11-12"
+    },
+    {
+        "id": 289,
+        "category": "Bible Characters",
+        "question": "Which Jewish king visited Governor Festus in Caesarea and famously remarked to Paul, 'In a short time would you persuade me to be a Christian?'",
+        "answer": "King Agrippa (Herod Agrippa II)",
+        "reference": "Acts 25:13, 26:28"
+    },
+    {
+        "id": 290,
+        "category": "Bible Characters",
+        "question": "Which Roman centurion of the Augustan Cohort treated Paul kindly and supervised his sea voyage to Rome?",
+        "answer": "Julius",
+        "reference": "Acts 27:1-3"
+    },
+    {
+        "id": 291,
+        "category": "Bible Characters",
+        "question": "Who was the leading man of the island of Malta who welcomed shipwrecked Paul and whose sick father Paul healed?",
+        "answer": "Publius",
+        "reference": "Acts 28:7-8"
+    },
+    {
+        "id": 292,
+        "category": "Bible Characters",
+        "question": "Which deaconess (servant) of the church in Cenchreae did Paul warmly commend to the Roman believers in Romans 16?",
+        "answer": "Phoebe",
+        "reference": "Romans 16:1-2"
+    },
+    {
+        "id": 293,
+        "category": "Bible Characters",
+        "question": "Which city director of public works (treasurer) in Corinth sent greetings to the believers in Rome through Paul's letter?",
+        "answer": "Erastus",
+        "reference": "Romans 16:23"
+    },
+    {
+        "id": 294,
+        "category": "Bible Characters",
+        "question": "Which two women in Philippi were personally pleaded with by Paul to agree in the Lord after having a dispute?",
+        "answer": "Euodia and Syntyche",
+        "reference": "Philippians 4:2"
+    },
+    {
+        "id": 295,
+        "category": "Bible Characters",
+        "question": "Which Colossian believer founded the church in Colossae and was described by Paul as a 'faithful minister of Christ'?",
+        "answer": "Epaphras",
+        "reference": "Colossians 1:7, 4:12"
+    },
+    {
+        "id": 296,
+        "category": "Bible Characters",
+        "question": "Which homeowner in Colossae hosted a church in his house and was the recipient of a personal letter from Paul regarding a runaway slave?",
+        "answer": "Philemon",
+        "reference": "Philemon 1:1-2"
+    },
+    {
+        "id": 297,
+        "category": "Bible Characters",
+        "question": "Which co-worker did Paul instruct in Colossians and Philemon to 'fulfill the ministry that you have received in the Lord'?",
+        "answer": "Archippus",
+        "reference": "Colossians 4:17, Philemon 1:2"
+    },
+    {
+        "id": 298,
+        "category": "Bible Characters",
+        "question": "Which faithful believer from Asia was not ashamed of Paul's chains and often refreshed him in prison in Rome?",
+        "answer": "Onesiphorus",
+        "reference": "2 Timothy 1:16-18"
+    },
+    {
+        "id": 299,
+        "category": "Bible Characters",
+        "question": "Which metalworker strongly opposed Paul's preaching and did him 'great harm', about whom Paul warned Timothy?",
+        "answer": "Alexander the coppersmith",
+        "reference": "2 Timothy 4:14"
+    },
+    {
+        "id": 300,
+        "category": "Bible Characters",
+        "question": "Which believer was commended in 3 John by everyone, and by the truth itself, for his good testimony?",
+        "answer": "Demetrius",
+        "reference": "3 John 1:12"
+    }
+]

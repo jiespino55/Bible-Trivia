@@ -1,0 +1,702 @@
+[
+    {
+        "id": 1,
+        "category": "Old Testament",
+        "question": "On which day of creation did God create the sun, moon, and stars?",
+        "answer": "The fourth day",
+        "reference": "Genesis 1:14-19"
+    },
+    {
+        "id": 2,
+        "category": "Old Testament",
+        "question": "What sign did God set in the clouds as a covenant never again to destroy all flesh by a flood?",
+        "answer": "A rainbow",
+        "reference": "Genesis 9:13-15"
+    },
+    {
+        "id": 3,
+        "category": "Old Testament",
+        "question": "What was the name of the city where God confused the language of the whole earth?",
+        "answer": "Babel",
+        "reference": "Genesis 11:9"
+    },
+    {
+        "id": 4,
+        "category": "Old Testament",
+        "question": "Who was Abraham's firstborn son, born to Hagar?",
+        "answer": "Ishmael",
+        "reference": "Genesis 16:15"
+    },
+    {
+        "id": 5,
+        "category": "Old Testament",
+        "question": "What did Abraham offer as a sacrifice in place of his son Isaac on Mount Moriah?",
+        "answer": "A ram caught in a thicket",
+        "reference": "Genesis 22:13"
+    },
+    {
+        "id": 6,
+        "category": "Old Testament",
+        "question": "What was the name of Isaac's wife?",
+        "answer": "Rebekah",
+        "reference": "Genesis 24:67"
+    },
+    {
+        "id": 7,
+        "category": "Old Testament",
+        "question": "For what food did Esau sell his birthright to Jacob?",
+        "answer": "Bread and lentil stew",
+        "reference": "Genesis 25:34"
+    },
+    {
+        "id": 8,
+        "category": "Old Testament",
+        "question": "What new name was Jacob given after wrestling with a man until daybreak at Peniel?",
+        "answer": "Israel",
+        "reference": "Genesis 32:28"
+    },
+    {
+        "id": 9,
+        "category": "Old Testament",
+        "question": "Which of Jacob's twelve sons was sold into slavery by his brothers?",
+        "answer": "Joseph",
+        "reference": "Genesis 37:28"
+    },
+    {
+        "id": 10,
+        "category": "Old Testament",
+        "question": "In Egypt, which official of Pharaoh bought Joseph from the Midianites?",
+        "answer": "Potiphar",
+        "reference": "Genesis 39:1"
+    },
+    {
+        "id": 11,
+        "category": "Old Testament",
+        "question": "In what object was the infant Moses placed when his mother hid him on the bank of the Nile?",
+        "answer": "A basket made of bulrushes",
+        "reference": "Exodus 2:3"
+    },
+    {
+        "id": 12,
+        "category": "Old Testament",
+        "question": "From what object did God speak to Moses when calling him at Mount Horeb?",
+        "answer": "A burning bush",
+        "reference": "Exodus 3:2-4"
+    },
+    {
+        "id": 13,
+        "category": "Old Testament",
+        "question": "What was the first plague brought upon Egypt?",
+        "answer": "Water turned into blood",
+        "reference": "Exodus 7:20"
+    },
+    {
+        "id": 14,
+        "category": "Old Testament",
+        "question": "What body of water did the Israelites cross on dry ground when fleeing Egypt?",
+        "answer": "The Red Sea",
+        "reference": "Exodus 14:21-22"
+    },
+    {
+        "id": 15,
+        "category": "Old Testament",
+        "question": "What miraculous bread from heaven fed the Israelites in the wilderness?",
+        "answer": "Manna",
+        "reference": "Exodus 16:31"
+    },
+    {
+        "id": 16,
+        "category": "Old Testament",
+        "question": "On which mountain did God deliver the Ten Commandments to Moses?",
+        "answer": "Mount Sinai",
+        "reference": "Exodus 19:20"
+    },
+    {
+        "id": 17,
+        "category": "Old Testament",
+        "question": "What idol did Aaron fashion out of gold while Moses was on Mount Sinai?",
+        "answer": "A golden calf",
+        "reference": "Exodus 32:4"
+    },
+    {
+        "id": 18,
+        "category": "Old Testament",
+        "question": "Who was chosen by God as the first high priest of Israel?",
+        "answer": "Aaron",
+        "reference": "Exodus 28:1"
+    },
+    {
+        "id": 19,
+        "category": "Old Testament",
+        "question": "Which two sons of Aaron died when they offered unauthorized ('strange') fire before the Lord?",
+        "answer": "Nadab and Abihu",
+        "reference": "Leviticus 10:1-2"
+    },
+    {
+        "id": 20,
+        "category": "Old Testament",
+        "question": "On which annual holy day was the high priest permitted to enter the Most Holy Place with blood for atonement?",
+        "answer": "The Day of Atonement (Yom Kippur)",
+        "reference": "Leviticus 16:29-34"
+    },
+    {
+        "id": 21,
+        "category": "Old Testament",
+        "question": "Every how many years was the year of Jubilee proclaimed in Israel?",
+        "answer": "50 years",
+        "reference": "Leviticus 25:10-11"
+    },
+    {
+        "id": 22,
+        "category": "Old Testament",
+        "question": "Which tribe was set apart to care for the Tabernacle and was exempt from military service?",
+        "answer": "The tribe of Levi (Levites)",
+        "reference": "Numbers 1:47-50"
+    },
+    {
+        "id": 23,
+        "category": "Old Testament",
+        "question": "Which two spies brought back a faithful report encouraging Israel to enter the Promised Land?",
+        "answer": "Joshua and Caleb",
+        "reference": "Numbers 14:6-9"
+    },
+    {
+        "id": 24,
+        "category": "Old Testament",
+        "question": "What animal spoke to the prophet Balaam when he was traveling to curse Israel?",
+        "answer": "A donkey",
+        "reference": "Numbers 22:28"
+    },
+    {
+        "id": 25,
+        "category": "Old Testament",
+        "question": "What object did Moses make and set on a pole so that anyone bitten by a serpent could look at it and live?",
+        "answer": "A bronze serpent",
+        "reference": "Numbers 21:8-9"
+    },
+    {
+        "id": 26,
+        "category": "Old Testament",
+        "question": "Which fundamental Jewish confession begins with 'Hear, O Israel: The LORD our God, the LORD is one'?",
+        "answer": "The Shema",
+        "reference": "Deuteronomy 6:4"
+    },
+    {
+        "id": 27,
+        "category": "Old Testament",
+        "question": "From which mountain did Moses view the Promised Land before his death?",
+        "answer": "Mount Nebo (Pisgah)",
+        "reference": "Deuteronomy 34:1"
+    },
+    {
+        "id": 28,
+        "category": "Old Testament",
+        "question": "Who hid the two Israelite spies in Jericho beneath stalks of flax on her roof?",
+        "answer": "Rahab",
+        "reference": "Joshua 2:1-6"
+    },
+    {
+        "id": 29,
+        "category": "Old Testament",
+        "question": "What river parted when the feet of the priests carrying the Ark of the Covenant touched the water?",
+        "answer": "The Jordan River",
+        "reference": "Joshua 3:15-17"
+    },
+    {
+        "id": 30,
+        "category": "Old Testament",
+        "question": "How many days did the Israelites march around Jericho before the walls collapsed?",
+        "answer": "Seven days",
+        "reference": "Joshua 6:3-5"
+    },
+    {
+        "id": 31,
+        "category": "Old Testament",
+        "question": "Which Israelite brought trouble upon Israel by taking devoted items from Jericho?",
+        "answer": "Achan",
+        "reference": "Joshua 7:1"
+    },
+    {
+        "id": 32,
+        "category": "Old Testament",
+        "question": "Over which valley did the sun stand still at the prayer of Joshua?",
+        "answer": "The Valley of Aijalon",
+        "reference": "Joshua 10:12"
+    },
+    {
+        "id": 33,
+        "category": "Old Testament",
+        "question": "Who was the only recorded female judge of Israel?",
+        "answer": "Deborah",
+        "reference": "Judges 4:4"
+    },
+    {
+        "id": 34,
+        "category": "Old Testament",
+        "question": "To how many men did God reduce Gideon's army before defeating the Midianites?",
+        "answer": "300 men",
+        "reference": "Judges 7:7"
+    },
+    {
+        "id": 35,
+        "category": "Old Testament",
+        "question": "What was the secret source of Samson's physical strength under his Nazirite vow?",
+        "answer": "His uncut hair",
+        "reference": "Judges 16:17"
+    },
+    {
+        "id": 36,
+        "category": "Old Testament",
+        "question": "Which Philistine woman betrayed Samson by discovering the secret of his strength?",
+        "answer": "Delilah",
+        "reference": "Judges 16:18-19"
+    },
+    {
+        "id": 37,
+        "category": "Old Testament",
+        "question": "What was the name of Ruth's mother-in-law whom she accompanied back to Bethlehem?",
+        "answer": "Naomi",
+        "reference": "Ruth 1:16-19"
+    },
+    {
+        "id": 38,
+        "category": "Old Testament",
+        "question": "In whose fields in Bethlehem did Ruth glean leftover grain?",
+        "answer": "Boaz",
+        "reference": "Ruth 2:2-3"
+    },
+    {
+        "id": 39,
+        "category": "Old Testament",
+        "question": "Who was the mother of Samuel who prayed earnestly at the tabernacle in Shiloh for a child?",
+        "answer": "Hannah",
+        "reference": "1 Samuel 1:9-20"
+    },
+    {
+        "id": 40,
+        "category": "Old Testament",
+        "question": "Who was the high priest at Shiloh who mentored young Samuel?",
+        "answer": "Eli",
+        "reference": "1 Samuel 3:1-9"
+    },
+    {
+        "id": 41,
+        "category": "Old Testament",
+        "question": "Who was anointed as the first king of Israel?",
+        "answer": "Saul",
+        "reference": "1 Samuel 10:1"
+    },
+    {
+        "id": 42,
+        "category": "Old Testament",
+        "question": "What weapon did David use to strike down the Philistine champion Goliath?",
+        "answer": "A sling and a stone",
+        "reference": "1 Samuel 17:49-50"
+    },
+    {
+        "id": 43,
+        "category": "Old Testament",
+        "question": "Which son of King Saul formed a deep covenant friendship with David?",
+        "answer": "Jonathan",
+        "reference": "1 Samuel 18:1-3"
+    },
+    {
+        "id": 44,
+        "category": "Old Testament",
+        "question": "Which discerning woman intercepted David with gifts to prevent him from destroying her foolish husband Nabal?",
+        "answer": "Abigail",
+        "reference": "1 Samuel 25:18-35"
+    },
+    {
+        "id": 45,
+        "category": "Old Testament",
+        "question": "Which city did David capture from the Jebusites and make his capital, known as the City of David?",
+        "answer": "Jerusalem",
+        "reference": "2 Samuel 5:6-9"
+    },
+    {
+        "id": 46,
+        "category": "Old Testament",
+        "question": "Who died after reaching out his hand to steady the Ark of the Covenant when the oxen stumbled?",
+        "answer": "Uzzah",
+        "reference": "2 Samuel 6:6-7"
+    },
+    {
+        "id": 47,
+        "category": "Old Testament",
+        "question": "Which prophet confronted King David about his sin with Bathsheba using a parable of a poor man's ewe lamb?",
+        "answer": "Nathan",
+        "reference": "2 Samuel 12:1-7"
+    },
+    {
+        "id": 48,
+        "category": "Old Testament",
+        "question": "Which rebellious son of David was caught by his hair in an oak tree and killed by Joab?",
+        "answer": "Absalom",
+        "reference": "2 Samuel 18:9-14"
+    },
+    {
+        "id": 49,
+        "category": "Old Testament",
+        "question": "What gift did King Solomon ask of God when the Lord appeared to him in a dream at Gibeon?",
+        "answer": "An understanding mind (wisdom) to govern Israel",
+        "reference": "1 Kings 3:9-12"
+    },
+    {
+        "id": 50,
+        "category": "Old Testament",
+        "question": "Which foreign monarch traveled to Jerusalem with camels bearing spices and gold to test Solomon's wisdom?",
+        "answer": "The Queen of Sheba",
+        "reference": "1 Kings 10:1-2"
+    },
+    {
+        "id": 51,
+        "category": "Old Testament",
+        "question": "Who was the first king of the northern kingdom of Israel after the nation divided?",
+        "answer": "Jeroboam",
+        "reference": "1 Kings 12:20"
+    },
+    {
+        "id": 52,
+        "category": "Old Testament",
+        "question": "What birds brought bread and meat to the prophet Elijah while he hid at the brook Cherith?",
+        "answer": "Ravens",
+        "reference": "1 Kings 17:4-6"
+    },
+    {
+        "id": 53,
+        "category": "Old Testament",
+        "question": "On which mountain did Elijah challenge the 450 prophets of Baal to a contest with fire?",
+        "answer": "Mount Carmel",
+        "reference": "1 Kings 18:19-24"
+    },
+    {
+        "id": 54,
+        "category": "Old Testament",
+        "question": "Whose vineyard did King Ahab covet and acquire after Queen Jezebel had the owner falsely accused and stoned?",
+        "answer": "Naboth",
+        "reference": "1 Kings 21:1-16"
+    },
+    {
+        "id": 55,
+        "category": "Old Testament",
+        "question": "How was the prophet Elijah taken up into heaven?",
+        "answer": "In a whirlwind with a chariot and horses of fire",
+        "reference": "2 Kings 2:11"
+    },
+    {
+        "id": 56,
+        "category": "Old Testament",
+        "question": "Which Syrian army commander was healed of leprosy after washing seven times in the Jordan River?",
+        "answer": "Naaman",
+        "reference": "2 Kings 5:14"
+    },
+    {
+        "id": 57,
+        "category": "Old Testament",
+        "question": "Which servant of Elisha was struck with leprosy because of his greed?",
+        "answer": "Gehazi",
+        "reference": "2 Kings 5:25-27"
+    },
+    {
+        "id": 58,
+        "category": "Old Testament",
+        "question": "Which empire conquered the northern kingdom of Israel and deported its people in 722 BC?",
+        "answer": "Assyria (the Assyrian Empire)",
+        "reference": "2 Kings 17:6"
+    },
+    {
+        "id": 59,
+        "category": "Old Testament",
+        "question": "Which king of Judah prayed when Sennacherib of Assyria threatened Jerusalem, resulting in the death of 185,000 Assyrian soldiers?",
+        "answer": "Hezekiah",
+        "reference": "2 Kings 19:14-35"
+    },
+    {
+        "id": 60,
+        "category": "Old Testament",
+        "question": "What was discovered in the house of the Lord during renovations under the righteous King Josiah?",
+        "answer": "The Book of the Law",
+        "reference": "2 Kings 22:8"
+    },
+    {
+        "id": 61,
+        "category": "Old Testament",
+        "question": "Which Babylonian king besieged Jerusalem, destroyed the temple, and took Judah into exile?",
+        "answer": "Nebuchadnezzar",
+        "reference": "2 Kings 25:1-9"
+    },
+    {
+        "id": 62,
+        "category": "Old Testament",
+        "question": "Which Persian king issued the decree allowing the Jewish exiles to return to Jerusalem and rebuild the temple?",
+        "answer": "Cyrus the Great",
+        "reference": "Ezra 1:1-3"
+    },
+    {
+        "id": 63,
+        "category": "Old Testament",
+        "question": "What position did Nehemiah hold in the royal court of Artaxerxes before returning to Jerusalem?",
+        "answer": "Cupbearer to the king",
+        "reference": "Nehemiah 1:11"
+    },
+    {
+        "id": 64,
+        "category": "Old Testament",
+        "question": "In how many days was the wall of Jerusalem rebuilt under Nehemiah's leadership?",
+        "answer": "52 days",
+        "reference": "Nehemiah 6:15"
+    },
+    {
+        "id": 65,
+        "category": "Old Testament",
+        "question": "What was Queen Esther's Hebrew name?",
+        "answer": "Hadassah",
+        "reference": "Esther 2:7"
+    },
+    {
+        "id": 66,
+        "category": "Old Testament",
+        "question": "Which villain plotted to destroy all the Jews throughout the Persian Empire?",
+        "answer": "Haman",
+        "reference": "Esther 3:5-6"
+    },
+    {
+        "id": 67,
+        "category": "Old Testament",
+        "question": "What annual Jewish feast was established to commemorate the deliverance of the Jews recorded in Esther?",
+        "answer": "Purim",
+        "reference": "Esther 9:26-28"
+    },
+    {
+        "id": 68,
+        "category": "Old Testament",
+        "question": "In what land did Job live?",
+        "answer": "The land of Uz",
+        "reference": "Job 1:1"
+    },
+    {
+        "id": 69,
+        "category": "Old Testament",
+        "question": "Who were the three friends that came to comfort Job after his calamities?",
+        "answer": "Eliphaz, Bildad, and Zophar",
+        "reference": "Job 2:11"
+    },
+    {
+        "id": 70,
+        "category": "Old Testament",
+        "question": "Out of what natural phenomenon did the Lord speak to Job in chapter 38?",
+        "answer": "A whirlwind",
+        "reference": "Job 38:1"
+    },
+    {
+        "id": 71,
+        "category": "Old Testament",
+        "question": "Which psalm is the longest chapter in the Bible, organized as an acrostic celebrating God's law?",
+        "answer": "Psalm 119",
+        "reference": "Psalm 119:1-176"
+    },
+    {
+        "id": 72,
+        "category": "Old Testament",
+        "question": "Which penitential psalm did David write after the prophet Nathan confronted him over Bathsheba?",
+        "answer": "Psalm 51",
+        "reference": "Psalm 51:1"
+    },
+    {
+        "id": 73,
+        "category": "Old Testament",
+        "question": "According to Psalm 111:10 and Proverbs 9:10, what is the beginning of wisdom?",
+        "answer": "The fear of the LORD",
+        "reference": "Psalm 111:10"
+    },
+    {
+        "id": 74,
+        "category": "Old Testament",
+        "question": "Which small insect does Proverbs 6:6 tell the sluggard to observe and learn from?",
+        "answer": "The ant",
+        "reference": "Proverbs 6:6"
+    },
+    {
+        "id": 75,
+        "category": "Old Testament",
+        "question": "Which chapter of Proverbs famously describes the character and praise of an 'excellent wife'?",
+        "answer": "Proverbs 31",
+        "reference": "Proverbs 31:10-31"
+    },
+    {
+        "id": 76,
+        "category": "Old Testament",
+        "question": "In the year of which king's death did the prophet Isaiah see the Lord sitting on a high throne?",
+        "answer": "King Uzziah",
+        "reference": "Isaiah 6:1"
+    },
+    {
+        "id": 77,
+        "category": "Old Testament",
+        "question": "With what object did a seraph touch Isaiah's lips to purge his iniquity?",
+        "answer": "A burning coal from the altar",
+        "reference": "Isaiah 6:6-7"
+    },
+    {
+        "id": 78,
+        "category": "Old Testament",
+        "question": "According to Isaiah 7:14, what sign name would be given to the son born of the virgin?",
+        "answer": "Immanuel",
+        "reference": "Isaiah 7:14"
+    },
+    {
+        "id": 79,
+        "category": "Old Testament",
+        "question": "Which prophetic chapter of Isaiah contains the extensive description of the Suffering Servant who was 'pierced for our transgressions'?",
+        "answer": "Isaiah 53",
+        "reference": "Isaiah 53:5"
+    },
+    {
+        "id": 80,
+        "category": "Old Testament",
+        "question": "What was the name of Jeremiah's scribe who wrote down the words of the prophet on a scroll?",
+        "answer": "Baruch",
+        "reference": "Jeremiah 36:4"
+    },
+    {
+        "id": 81,
+        "category": "Old Testament",
+        "question": "Which king of Judah cut up and burned Jeremiah's prophetic scroll in a brazier?",
+        "answer": "Jehoiakim",
+        "reference": "Jeremiah 36:23"
+    },
+    {
+        "id": 82,
+        "category": "Old Testament",
+        "question": "How many years of exile in Babylon did Jeremiah prophesy for Judah?",
+        "answer": "70 years",
+        "reference": "Jeremiah 25:11-12"
+    },
+    {
+        "id": 83,
+        "category": "Old Testament",
+        "question": "By which canal (river) in Babylon was Ezekiel when the heavens opened and he saw visions of God?",
+        "answer": "The Chebar canal",
+        "reference": "Ezekiel 1:1"
+    },
+    {
+        "id": 84,
+        "category": "Old Testament",
+        "question": "In Ezekiel 37, what was scattered throughout the valley that came to life when the prophet prophesied?",
+        "answer": "Dry human bones",
+        "reference": "Ezekiel 37:1-10"
+    },
+    {
+        "id": 85,
+        "category": "Old Testament",
+        "question": "What Babylonian name was given to the prophet Daniel upon his arrival in Babylon?",
+        "answer": "Belteshazzar",
+        "reference": "Daniel 1:7"
+    },
+    {
+        "id": 86,
+        "category": "Old Testament",
+        "question": "Who were Daniel's three companions thrown into the blazing furnace for refusing to worship Nebuchadnezzar's golden image?",
+        "answer": "Shadrach, Meshach, and Abednego",
+        "reference": "Daniel 3:12-20"
+    },
+    {
+        "id": 87,
+        "category": "Old Testament",
+        "question": "Which Babylonian king saw mysterious human fingers writing on the plaster of his palace wall during a banquet?",
+        "answer": "Belshazzar",
+        "reference": "Daniel 5:1-5"
+    },
+    {
+        "id": 88,
+        "category": "Old Testament",
+        "question": "Into what place was Daniel thrown for praying to God in defiance of King Darius's decree?",
+        "answer": "The lions' den",
+        "reference": "Daniel 6:16"
+    },
+    {
+        "id": 89,
+        "category": "Old Testament",
+        "question": "Whom did God instruct the prophet Hosea to marry as a picture of Israel's unfaithfulness?",
+        "answer": "Gomer",
+        "reference": "Hosea 1:2-3"
+    },
+    {
+        "id": 90,
+        "category": "Old Testament",
+        "question": "What devastating insect plague did the prophet Joel describe as a herald of the Day of the Lord?",
+        "answer": "A locust swarm",
+        "reference": "Joel 1:4"
+    },
+    {
+        "id": 91,
+        "category": "Old Testament",
+        "question": "What was the prophet Amos's occupation before God called him to prophesy to Israel?",
+        "answer": "A herdsman and a dresser of sycamore figs",
+        "reference": "Amos 7:14"
+    },
+    {
+        "id": 92,
+        "category": "Old Testament",
+        "question": "To which city did Jonah attempt to flee by ship instead of going to preach in Nineveh?",
+        "answer": "Tarshish",
+        "reference": "Jonah 1:3"
+    },
+    {
+        "id": 93,
+        "category": "Old Testament",
+        "question": "How long was Jonah in the belly of the great fish?",
+        "answer": "Three days and three nights",
+        "reference": "Jonah 1:17"
+    },
+    {
+        "id": 94,
+        "category": "Old Testament",
+        "question": "Which small Judean town was prophesied by Micah to be the birthplace of the future ruler of Israel?",
+        "answer": "Bethlehem Ephrathah",
+        "reference": "Micah 5:2"
+    },
+    {
+        "id": 95,
+        "category": "Old Testament",
+        "question": "Which wicked imperial capital city's total destruction did the prophet Nahum prophesy?",
+        "answer": "Nineveh",
+        "reference": "Nahum 1:1, 3:7"
+    },
+    {
+        "id": 96,
+        "category": "Old Testament",
+        "question": "Which nation did the Lord reveal to Habakkuk that He was raising up to execute judgment against Judah?",
+        "answer": "The Chaldeans (Babylonians)",
+        "reference": "Habakkuk 1:6"
+    },
+    {
+        "id": 97,
+        "category": "Old Testament",
+        "question": "What specific building project did the prophet Haggai urge the returned exiles to finish?",
+        "answer": "The rebuilding of the Temple",
+        "reference": "Haggai 1:2-8"
+    },
+    {
+        "id": 98,
+        "category": "Old Testament",
+        "question": "According to Zechariah 9:9, on what animal would Zion's humble, righteous king arrive?",
+        "answer": "A donkey (a colt, the foal of a donkey)",
+        "reference": "Zechariah 9:9"
+    },
+    {
+        "id": 99,
+        "category": "Old Testament",
+        "question": "In Malachi 3:8, of what did God accuse the people of robbing Him?",
+        "answer": "Tithes and contributions",
+        "reference": "Malachi 3:8"
+    },
+    {
+        "id": 100,
+        "category": "Old Testament",
+        "question": "Which Old Testament prophet did Malachi prophesy God would send before the great and awesome day of the LORD?",
+        "answer": "Elijah",
+        "reference": "Malachi 4:5"
+    }
+]
