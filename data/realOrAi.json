@@ -1,0 +1,702 @@
+[
+    {
+        "id": 601,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'Like a gold ring in a pig's snout is a beautiful woman without discretion.'",
+        "answer": "Real",
+        "reference": "Proverbs 11:22"
+    },
+    {
+        "id": 602,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'Better is an unplowed field with peace of heart than seven storehouses filled by an unrighteous tongue.'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 603,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'When you sit down to eat with a ruler... put a knife to your throat if you are given to appetite.'",
+        "answer": "Real",
+        "reference": "Proverbs 23:1-2"
+    },
+    {
+        "id": 604,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'For if the branch boast against the root, how shall it endure the winter frost? Let each man examine his own fruit, lest he be cut off in his boast.'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 605,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'Whoever blesses his neighbor with a loud voice, rising early in the morning, will be counted as cursing.'",
+        "answer": "Real",
+        "reference": "Proverbs 27:14"
+    },
+    {
+        "id": 606,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'Which of you, desiring to cross a swollen river, does not first test the stones beneath the current? So also is he who speaks before he listens.'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 607,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'Bread is made for laughter, and wine gladdens life, and money answers everything.'",
+        "answer": "Real",
+        "reference": "Ecclesiastes 10:19"
+    },
+    {
+        "id": 608,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'I gave you the early rains and sweet water from the rock, yet you carved your threshing sledges into idols of wood.'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 609,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'Your teeth are like a flock of shorn ewes that have come up from the washing, all of which bear twins, and not one among them has lost its young.'",
+        "answer": "Real",
+        "reference": "Song of Solomon 4:2"
+    },
+    {
+        "id": 610,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'A cracked jar holds no oil, and a bitter spirit cannot minister grace; out of one vessel cannot flow both healing and poison.'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 611,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'I wish those who unsettle you would emasculate themselves!'",
+        "answer": "Real",
+        "reference": "Galatians 5:12"
+    },
+    {
+        "id": 612,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'A whisperer digs a ditch with his tongue, but the prudent man builds a stone wall before he speaks.'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 613,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'And as Paul talked still longer, being overcome by sleep, he fell down from the third story and was taken up dead.'",
+        "answer": "Real",
+        "reference": "Acts 20:9"
+    },
+    {
+        "id": 614,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'Do you not know that he who hoards bread in the day of plenty shall hunger in the day of trial? For charity covers a multitude of necessities.'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 615,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'Then he said to me, \"See, I assign you cow's dung instead of human dung, on which you may prepare your bread.\"'",
+        "answer": "Real",
+        "reference": "Ezekiel 4:15"
+    },
+    {
+        "id": 616,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'The candle of the wicked gutters in the wind, but the light of the upright shineth even through iron shutters.'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 617,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? '...some small boys came out of the city and jeered at him, saying, \"Go up, you baldhead! Go up, you baldhead!\" ... And two she-bears came out of the woods and tore forty-two of the boys.'",
+        "answer": "Real",
+        "reference": "2 Kings 2:23-24"
+    },
+    {
+        "id": 618,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'Woe to those who weave nets out of spider webs and trust in shadows to shield them from the heat of my indignation.'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 619,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'It is better to live in a corner of the housetop than in a house shared with a quarrelsome wife.'",
+        "answer": "Real",
+        "reference": "Proverbs 21:9"
+    },
+    {
+        "id": 620,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'No man who sets his hand to the sickle looks back at the thorn, lest his wheat be trampled by his own ox.'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 621,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'Like a dog that returns to his vomit is a fool who repeats his folly.'",
+        "answer": "Real",
+        "reference": "Proverbs 26:11"
+    },
+    {
+        "id": 622,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'Bear with the contentious brother in meekness, for a contentious tongue reveals a divided heart, and love seeks not its own preeminence.'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 623,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'And the donkey said to Balaam, \"Am I not your donkey, on which you have ridden all your life long to this day? Is it my habit to treat you this way?\" And he said, \"No.\"'",
+        "answer": "Real",
+        "reference": "Numbers 22:30"
+    },
+    {
+        "id": 624,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'A leaking roof rots the cedar beams, and unresolved wrath in the heart estranges the dearest companion.'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 625,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? '...and the hilt also went in after the blade, and the fat closed over the blade, for he did not pull the dagger out of his belly; and the dung came out.'",
+        "answer": "Real",
+        "reference": "Judges 3:22"
+    },
+    {
+        "id": 626,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'He who plants his vine upon stony ground weeps at the harvest, but he who clears the rock shall drink wine with joy.'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 627,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'And at noon Elijah mocked them, saying, \"Cry aloud, for he is a god. Either he is musing, or he is relieving himself, or he is on a journey, or perhaps he is asleep and must be awakened.\"'",
+        "answer": "Real",
+        "reference": "1 Kings 18:27"
+    },
+    {
+        "id": 628,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'Behold, your silver is tainted with lead and your counselors speak from hollow wells; can an empty jar pour forth oil upon the altar?'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 629,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'Be not overly righteous, and do not make yourself too wise. Why should you destroy yourself?'",
+        "answer": "Real",
+        "reference": "Ecclesiastes 7:16"
+    },
+    {
+        "id": 630,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'Stand firm, therefore, and do not let your liberty become a snare to the weak, for Christ did not seek His own vindication, but laid down His rights for the brethren.'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 631,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? '...the LORD said, \"As my servant Isaiah has walked naked and barefoot for three years as a sign and a portent against Egypt and Cush...\"'",
+        "answer": "Real",
+        "reference": "Isaiah 20:3"
+    },
+    {
+        "id": 632,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'If any brother among you lacks steadfastness, let him gird up his thoughts with prayer, for a wavering mind is like a sail torn by contrary winds.'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 633,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'When the LORD first spoke through Hosea, the LORD said to Hosea, \"Go, take to yourself a wife of whoredom and have children of whoredom...\"'",
+        "answer": "Real",
+        "reference": "Hosea 1:2"
+    },
+    {
+        "id": 634,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'There are three things that weaken a ruler, yea, four that overthrow a kingdom: an open treasury, closed ears, unmeasured wrath, and false flatterers.'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 635,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'Do not think that I have come to bring peace to the earth. I have not come to bring peace, but a sword.'",
+        "answer": "Real",
+        "reference": "Matthew 10:34"
+    },
+    {
+        "id": 636,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'A good steward counts his sheep by day and watches the fold by night; for the wolf does not ask permission before he strikes.'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 637,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'If anyone comes to me and does not hate his own father and mother and wife and children and brothers and sisters, yes, and even his own life, he cannot be my disciple.'",
+        "answer": "Real",
+        "reference": "Luke 14:26"
+    },
+    {
+        "id": 638,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'You have built high watchtowers on every hill, yet you did not see the locust swarm advancing through the valley of your complacency.'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 639,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'Hear this word, you cows of Bashan, who are on the mountain of Samaria, who oppress the poor, who crush the needy...'",
+        "answer": "Real",
+        "reference": "Amos 4:1"
+    },
+    {
+        "id": 640,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'Better is a dry loaf shared among brethren than a fatted calf eaten behind locked doors in secret suspicion.'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 641,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'So we boiled my son and ate him. And on the next day I said to her, \"Give your son, that we may eat him.\" But she has hidden her son.'",
+        "answer": "Real",
+        "reference": "2 Kings 6:29"
+    },
+    {
+        "id": 642,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'We are ambassadors of reconciliation, not armed with earthly weapons of rhetoric, but by the demonstration of the Spirit and purity of conscience.'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 643,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'Your neck is like an ivory tower. Your eyes are pools in Heshbon... Your nose is like a tower of Lebanon, looking toward Damascus.'",
+        "answer": "Real",
+        "reference": "Song of Solomon 7:4"
+    },
+    {
+        "id": 644,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'A hot-tempered man throws embers upon dry grass, but he who holds his peace quenches a fire before the smoke rises.'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 645,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'Of them you may eat: the locust of any kind, the bald locust of any kind, the cricket of any kind, and the grasshopper of any kind.'",
+        "answer": "Real",
+        "reference": "Leviticus 11:22"
+    },
+    {
+        "id": 646,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'As water reflects the face of the traveler, so the choices of youth reveal the character of old age.'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 647,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'If you have found honey, eat only enough for you, lest you have your fill of it and vomit it.'",
+        "answer": "Real",
+        "reference": "Proverbs 25:16"
+    },
+    {
+        "id": 648,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'Can a broken clay pot mend itself before the potter? Neither can a rebellious heart cleanse its own stains apart from my grace.'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 649,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'As a door turns on its hinges, so does a sluggard on his bed.'",
+        "answer": "Real",
+        "reference": "Proverbs 26:14"
+    },
+    {
+        "id": 650,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'Let no man boast in the garment of outward knowledge, for knowledge puffs up, but obedience establishes the soul in holiness.'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 651,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'A continual dripping on a rainy day and a quarrelsome wife are alike...'",
+        "answer": "Real",
+        "reference": "Proverbs 27:15"
+    },
+    {
+        "id": 652,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'The borrower walks in the shadow of his lender, and debt is an unyielding master over the foolish.'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 653,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'The leech has two daughters: \"Give, give,\" they cry. Three things are never satisfied; four never say, \"Enough\"...'",
+        "answer": "Real",
+        "reference": "Proverbs 30:15"
+    },
+    {
+        "id": 654,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'Beware of the merchant who weighs grain with an unsteady thumb, for he who cheats his neighbor cheats his own soul of peace.'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 655,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'Three things are too wonderful for me; four I do not understand: the way of an eagle in the sky, the way of a serpent on a rock, the way of a ship on the high seas, and the way of a man with a virgin.'",
+        "answer": "Real",
+        "reference": "Proverbs 30:18-19"
+    },
+    {
+        "id": 656,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'For grace is not a cloak for carnal indulgence, but the divine power that crucifies the passions of the former life.'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 657,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? '...and you shall have a trowel with your tools, and when you sit down outside, you shall dig a hole with it and turn back and cover up your excrement.'",
+        "answer": "Real",
+        "reference": "Deuteronomy 23:13"
+    },
+    {
+        "id": 658,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'I planted you as a noble olive tree on a fertile slope, but you bore only bitter berries that rot upon the vine.'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 659,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'For in much wisdom is much vexation, and he who increases knowledge increases sorrow.'",
+        "answer": "Real",
+        "reference": "Ecclesiastes 1:18"
+    },
+    {
+        "id": 660,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'A heavy purse cannot purchase a single quiet night for a conscience stained with deceit.'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 661,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? '\"Son of man, feed your belly with this scroll that I give you and fill your stomach with it.\" Then I ate it, and it was in my mouth as sweet as honey.'",
+        "answer": "Real",
+        "reference": "Ezekiel 3:3"
+    },
+    {
+        "id": 662,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'Examine yourselves whether you walk in truth or in the shadow of human approval; for human praise vanishes like smoke, but God tests the heart.'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 663,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'Again I lifted my eyes and saw, and behold, a flying scroll! And he said to me, \"What do you see?\" I answered, \"I see a flying scroll. Its length is twenty cubits, and its width ten cubits.\"'",
+        "answer": "Real",
+        "reference": "Zechariah 5:1-2"
+    },
+    {
+        "id": 664,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'He who builds a fence around his vineyard but leaves the gate unlatched invites the wild boar to spoil the fruit.'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 665,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'So I went to the angel and told him to give me the little scroll. And he said to me, \"Take and eat it; it will make your stomach bitter, but in your mouth it will be sweet as honey.\"'",
+        "answer": "Real",
+        "reference": "Revelation 10:9"
+    },
+    {
+        "id": 666,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'A wise son weighs his father’s counsel like pure gold, but a scoffer tosses instruction into the street.'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 667,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'Can you draw out Leviathan with a fishhook or press down his tongue with a cord?'",
+        "answer": "Real",
+        "reference": "Job 41:1"
+    },
+    {
+        "id": 668,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'The lion roars from the thicket, and the shepherds sleep; who shall defend the sheepfold when the cedar trees are consumed with fire?'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 669,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'Let them be like the snail that dissolves into slime, like the stillborn child who never sees the sun.'",
+        "answer": "Real",
+        "reference": "Psalm 58:8"
+    },
+    {
+        "id": 670,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'Put away all bitterness and murmuring among you; for how can two walk together unless they are agreed in the bonds of charity?'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 671,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'For this I will lament and wail; I will go stripped and naked; I will make lamentation like the jackals, and mourning like the ostriches.'",
+        "answer": "Real",
+        "reference": "Micah 1:8"
+    },
+    {
+        "id": 672,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'An untended field yields nettles in season, and an undisciplined tongue produces estrangement among brethren.'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 673,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'Jesus said, \"Take away the stone.\" Martha, the sister of the dead man, said to him, \"Lord, by this time there will be an odor, for he has been dead four days.\"'",
+        "answer": "Real",
+        "reference": "John 11:39"
+    },
+    {
+        "id": 674,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'No man lights a lamp and carries it into a subterranean cavern; rather he places it upon a stand to illuminate the threshold for those who enter.'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 675,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'But if they cannot exercise self-control, they should marry. For it is better to marry than to burn with passion.'",
+        "answer": "Real",
+        "reference": "1 Corinthians 7:9"
+    },
+    {
+        "id": 676,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'Let each man take heed how he builds his hope; for wood, hay, and stubble make a swift fire, but the righteousness of Christ endures every furnace.'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 677,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'When you come, bring the cloak that I left with Carpus at Troas, also the books, and above all the parchments.'",
+        "answer": "Real",
+        "reference": "2 Timothy 4:13"
+    },
+    {
+        "id": 678,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'Can a spring of sweet water pour forth brackish brine? Therefore, guard your mouth with prayer, lest your profession be proved vain.'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 679,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'One of the Cretans, a prophet of their own, said, \"Cretans are always liars, evil beasts, lazy gluttons.\"'",
+        "answer": "Real",
+        "reference": "Titus 1:12"
+    },
+    {
+        "id": 680,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'A deceitful witness smiles in the marketplace, but his deceit shall be proclaimed from the rooftops when the judge takes his seat.'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 681,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? '...yet you do not know what tomorrow will bring. What is your life? For you are a mist that appears for a little time and then vanishes.'",
+        "answer": "Real",
+        "reference": "James 4:14"
+    },
+    {
+        "id": 682,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'Hear, O mountains, the grievance of the Holy One: You gathered tribute of cedar and gold, yet the fatherless wept at your palace gates.'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 683,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'So, because you are lukewarm, and neither hot nor cold, I will spit you out of my mouth.'",
+        "answer": "Real",
+        "reference": "Revelation 3:16"
+    },
+    {
+        "id": 684,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'For circumcision is nothing and uncircumcision is nothing, but the renewed mind that walks in obedience to the faith once delivered.'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 685,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? '...a time to kill, and a time to heal; a time to break down, and a time to build up...'",
+        "answer": "Real",
+        "reference": "Ecclesiastes 3:3"
+    },
+    {
+        "id": 686,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'He who hastens to acquire riches trips upon his own hem, but the laborer who counts his wages with thanksgiving sleeps soundly.'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 687,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'It is not good to eat much honey, nor is it glorious to seek one's own glory.'",
+        "answer": "Real",
+        "reference": "Proverbs 25:27"
+    },
+    {
+        "id": 688,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'The hireling flees when the shadow of the wolf appears upon the hillside, because his reward is in silver and not in the welfare of the flock.'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 689,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'And Samson said, \"With the jawbone of a donkey, heaps upon heaps, with the jawbone of a donkey have I struck down a thousand men.\"'",
+        "answer": "Real",
+        "reference": "Judges 15:16"
+    },
+    {
+        "id": 690,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'Let us not sleep as do the children of darkness, but put on the armor of sober reflection and run with endurance the path mapped out before us.'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 691,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'Blessed shall he be who takes your little ones and dashes them against the rock!'",
+        "answer": "Real",
+        "reference": "Psalm 137:9"
+    },
+    {
+        "id": 692,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'The threshing floor shall mourn and the winepress shall cry out, for you poured my blessings upon the altars of foreign gods.'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 693,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'Though the fig tree should not blossom, nor fruit be on the vines, the produce of the olive fail and the fields yield no food... yet I will rejoice in the LORD...'",
+        "answer": "Real",
+        "reference": "Habakkuk 3:17-18"
+    },
+    {
+        "id": 694,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'A proud gaze invites stumbling in the rocky defile, but the humble traveler keeps his eyes upon the path of integrity.'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 695,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'Indeed, I count everything as loss because of the surpassing worth of knowing Christ Jesus my Lord. For his sake I have suffered the loss of all things and count them as rubbish...'",
+        "answer": "Real",
+        "reference": "Philippians 3:8"
+    },
+    {
+        "id": 696,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'Wherefore, holy brethren, let no root of bitterness spring up among your assemblies, for an unbridled grievance corrupts the communion of the saints.'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 697,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'And Esau said to Jacob, \"Let me eat some of that red stew, for I am exhausted!\" (Therefore his name was called Edom.)'",
+        "answer": "Real",
+        "reference": "Genesis 25:30"
+    },
+    {
+        "id": 698,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'Which of you, having two coats and seeing his neighbor shivering by the roadside, does not divide what he has? For he who withholds warmth withholds the love of God.'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    },
+    {
+        "id": 699,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? '...he struck the men of the city, both young and old, so that tumors broke out on them.'",
+        "answer": "Real",
+        "reference": "1 Samuel 5:9"
+    },
+    {
+        "id": 700,
+        "category": "Real or AI",
+        "question": "Is this a real Bible verse or AI? 'He who guards his mouth shelters his household from calamity, but a babbling tongue invites judgment to his own table.'",
+        "answer": "AI",
+        "reference": "AI-generated (Not in Scripture)"
+    }
+]

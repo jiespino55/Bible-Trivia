@@ -1,0 +1,702 @@
+[
+    {
+        "id": 501,
+        "category": "Biblical Numbers",
+        "question": "How many total human beings were preserved alive aboard Noah's ark during the great flood?",
+        "answer": "8 people (Noah, his wife, 3 sons, and 3 daughters-in-law)",
+        "reference": "1 Peter 3:20"
+    },
+    {
+        "id": 502,
+        "category": "Biblical Numbers",
+        "question": "For how many days and nights did rain fall upon the earth during Noah's flood?",
+        "answer": "40 days and 40 nights",
+        "reference": "Genesis 7:12"
+    },
+    {
+        "id": 503,
+        "category": "Biblical Numbers",
+        "question": "According to Genesis 7:24, for how many days did the floodwaters prevail upon the earth before beginning to abate?",
+        "answer": "150 days",
+        "reference": "Genesis 7:24"
+    },
+    {
+        "id": 504,
+        "category": "Biblical Numbers",
+        "question": "How old was Noah when the floodwaters came upon the earth?",
+        "answer": "600 years old",
+        "reference": "Genesis 7:6"
+    },
+    {
+        "id": 505,
+        "category": "Biblical Numbers",
+        "question": "What was Noah's total age at death recorded in Genesis 9:29?",
+        "answer": "950 years",
+        "reference": "Genesis 9:29"
+    },
+    {
+        "id": 506,
+        "category": "Biblical Numbers",
+        "question": "How old was Abraham when his son Isaac was born?",
+        "answer": "100 years old",
+        "reference": "Genesis 21:5"
+    },
+    {
+        "id": 507,
+        "category": "Biblical Numbers",
+        "question": "How old was Sarah when she gave birth to Isaac?",
+        "answer": "90 years old",
+        "reference": "Genesis 17:17"
+    },
+    {
+        "id": 508,
+        "category": "Biblical Numbers",
+        "question": "How old was Sarah at her death in Kiriath-arba (Hebron)?",
+        "answer": "127 years old",
+        "reference": "Genesis 23:1"
+    },
+    {
+        "id": 509,
+        "category": "Biblical Numbers",
+        "question": "What was Abraham's total lifespan recorded in Genesis 25:7?",
+        "answer": "175 years",
+        "reference": "Genesis 25:7"
+    },
+    {
+        "id": 510,
+        "category": "Biblical Numbers",
+        "question": "How many total years did Jacob serve Laban in order to marry Leah and Rachel?",
+        "answer": "14 years (7 years for each sister)",
+        "reference": "Genesis 31:41"
+    },
+    {
+        "id": 511,
+        "category": "Biblical Numbers",
+        "question": "According to Genesis 46:27 and Exodus 1:5, how many members of Jacob's immediate family entered Egypt?",
+        "answer": "70 persons",
+        "reference": "Genesis 46:27"
+    },
+    {
+        "id": 512,
+        "category": "Biblical Numbers",
+        "question": "How old was Joseph when he entered the service of Pharaoh, king of Egypt?",
+        "answer": "30 years old",
+        "reference": "Genesis 41:46"
+    },
+    {
+        "id": 513,
+        "category": "Biblical Numbers",
+        "question": "How old was Joseph when he died in Egypt?",
+        "answer": "110 years old",
+        "reference": "Genesis 50:26"
+    },
+    {
+        "id": 514,
+        "category": "Biblical Numbers",
+        "question": "How many total plagues did the Lord bring against Egypt before Pharaoh released Israel?",
+        "answer": "10 plagues",
+        "reference": "Exodus 7–12"
+    },
+    {
+        "id": 515,
+        "category": "Biblical Numbers",
+        "question": "According to Exodus 12:40, how many years did the people of Israel dwell in Egypt?",
+        "answer": "430 years",
+        "reference": "Exodus 12:40"
+    },
+    {
+        "id": 516,
+        "category": "Biblical Numbers",
+        "question": "How old was Moses when he first stood before Pharaoh demanding Israel's release?",
+        "answer": "80 years old",
+        "reference": "Exodus 7:7"
+    },
+    {
+        "id": 517,
+        "category": "Biblical Numbers",
+        "question": "How old was Aaron when he spoke to Pharaoh alongside Moses?",
+        "answer": "83 years old",
+        "reference": "Exodus 7:7"
+    },
+    {
+        "id": 518,
+        "category": "Biblical Numbers",
+        "question": "How old was Moses when he died on Mount Nebo?",
+        "answer": "120 years old",
+        "reference": "Deuteronomy 34:7"
+    },
+    {
+        "id": 519,
+        "category": "Biblical Numbers",
+        "question": "For how many days and nights was Moses on Mount Sinai receiving the Law without eating bread or drinking water?",
+        "answer": "40 days and 40 nights",
+        "reference": "Exodus 34:28"
+    },
+    {
+        "id": 520,
+        "category": "Biblical Numbers",
+        "question": "How many spies did Moses send from the wilderness of Paran to scout the land of Canaan?",
+        "answer": "12 spies (one from each ancestral tribe)",
+        "reference": "Numbers 13:1-16"
+    },
+    {
+        "id": 521,
+        "category": "Biblical Numbers",
+        "question": "For how many days did the spies explore the land of Canaan before returning with their report?",
+        "answer": "40 days",
+        "reference": "Numbers 13:25"
+    },
+    {
+        "id": 522,
+        "category": "Biblical Numbers",
+        "question": "How many total years were the Israelites sentenced to wander in the wilderness, matching the days the spies explored the land?",
+        "answer": "40 years",
+        "reference": "Numbers 14:34"
+    },
+    {
+        "id": 523,
+        "category": "Biblical Numbers",
+        "question": "In the first census at Mount Sinai (Numbers 1), how many men aged twenty and older were counted for military service?",
+        "answer": "603,550 men",
+        "reference": "Numbers 1:45-46"
+    },
+    {
+        "id": 524,
+        "category": "Biblical Numbers",
+        "question": "In the second census taken on the plains of Moab (Numbers 26), how many fighting men were counted?",
+        "answer": "601,730 men",
+        "reference": "Numbers 26:51"
+    },
+    {
+        "id": 525,
+        "category": "Biblical Numbers",
+        "question": "How many cities of refuge did God instruct Israel to establish for anyone who killed a person unintentionally?",
+        "answer": "6 cities (3 on each side of the Jordan)",
+        "reference": "Numbers 35:13-14"
+    },
+    {
+        "id": 526,
+        "category": "Biblical Numbers",
+        "question": "How many total cities with their pasturelands were assigned to the tribe of Levi throughout Israel?",
+        "answer": "48 cities",
+        "reference": "Numbers 35:7"
+    },
+    {
+        "id": 527,
+        "category": "Biblical Numbers",
+        "question": "How many stones were taken from the middle of the Jordan River to construct a memorial at Gilgal?",
+        "answer": "12 stones",
+        "reference": "Joshua 4:8"
+    },
+    {
+        "id": 528,
+        "category": "Biblical Numbers",
+        "question": "On the seventh day of surrounding Jericho, how many times did the Israelite army march around the city?",
+        "answer": "7 times",
+        "reference": "Joshua 6:4"
+    },
+    {
+        "id": 529,
+        "category": "Biblical Numbers",
+        "question": "How many priests blew trumpets of rams' horns before the Ark of the Covenant as they marched around Jericho?",
+        "answer": "7 priests",
+        "reference": "Joshua 6:4"
+    },
+    {
+        "id": 530,
+        "category": "Biblical Numbers",
+        "question": "Approximately how many Israelite soldiers were killed during their initial, defeated assault on the city of Ai?",
+        "answer": "About 36 men",
+        "reference": "Joshua 7:5"
+    },
+    {
+        "id": 531,
+        "category": "Biblical Numbers",
+        "question": "According to Joshua 12:24, how many kings in total did Joshua and the Israelites defeat west of the Jordan?",
+        "answer": "31 kings",
+        "reference": "Joshua 12:24"
+    },
+    {
+        "id": 532,
+        "category": "Biblical Numbers",
+        "question": "In Judges 3:16, what was the length of the two-edged dagger crafted by the judge Ehud?",
+        "answer": "One cubit (approx. 18 inches)",
+        "reference": "Judges 3:16"
+    },
+    {
+        "id": 533,
+        "category": "Biblical Numbers",
+        "question": "How many Philistine warriors did the judge Shamgar strike down using only an oxgoad?",
+        "answer": "600 men",
+        "reference": "Judges 3:31"
+    },
+    {
+        "id": 534,
+        "category": "Biblical Numbers",
+        "question": "How many iron chariots did the Canaanite general Sisera command against Israel in Judges 4?",
+        "answer": "900 chariots of iron",
+        "reference": "Judges 4:3"
+    },
+    {
+        "id": 535,
+        "category": "Biblical Numbers",
+        "question": "From an initial gathering of 32,000 men, to how many warriors did God reduce Gideon's army to defeat Midian?",
+        "answer": "300 men",
+        "reference": "Judges 7:3, 7"
+    },
+    {
+        "id": 536,
+        "category": "Biblical Numbers",
+        "question": "How many wild foxes did Samson catch and tie tail-to-tail with torches to burn Philistine grain fields?",
+        "answer": "300 foxes",
+        "reference": "Judges 15:4"
+    },
+    {
+        "id": 537,
+        "category": "Biblical Numbers",
+        "question": "How many Philistine men did Samson strike down at Lehi using the fresh jawbone of a donkey?",
+        "answer": "1,000 men",
+        "reference": "Judges 15:15"
+    },
+    {
+        "id": 538,
+        "category": "Biblical Numbers",
+        "question": "How many locks of hair were braided on Samson's head when Delilah had his hair shaved?",
+        "answer": "7 locks",
+        "reference": "Judges 16:19"
+    },
+    {
+        "id": 539,
+        "category": "Biblical Numbers",
+        "question": "For how many years did Samson judge Israel during the days of the Philistines?",
+        "answer": "20 years",
+        "reference": "Judges 16:31"
+    },
+    {
+        "id": 540,
+        "category": "Biblical Numbers",
+        "question": "How many priests wearing the linen ephod were executed at Nob by Doeg the Edomite on King Saul's orders?",
+        "answer": "85 priests",
+        "reference": "1 Samuel 22:18"
+    },
+    {
+        "id": 541,
+        "category": "Biblical Numbers",
+        "question": "What was the recorded height of the Philistine champion Goliath of Gath in 1 Samuel 17:4?",
+        "answer": "Six cubits and a span (approx. 9 feet 9 inches)",
+        "reference": "1 Samuel 17:4"
+    },
+    {
+        "id": 542,
+        "category": "Biblical Numbers",
+        "question": "How many smooth stones did David choose from the brook before facing Goliath?",
+        "answer": "5 smooth stones",
+        "reference": "1 Samuel 17:40"
+    },
+    {
+        "id": 543,
+        "category": "Biblical Numbers",
+        "question": "According to 1 Samuel 17:7, what was the weight of Goliath's spearhead?",
+        "answer": "600 shekels of iron (approx. 15 pounds)",
+        "reference": "1 Samuel 17:7"
+    },
+    {
+        "id": 544,
+        "category": "Biblical Numbers",
+        "question": "For how many total years did David reign as king (seven years in Hebron and thirty-three in Jerusalem)?",
+        "answer": "40 years",
+        "reference": "2 Samuel 5:4-5"
+    },
+    {
+        "id": 545,
+        "category": "Biblical Numbers",
+        "question": "According to 2 Samuel 23:39, how many elite warriors were listed among David's 'Mighty Men' in total?",
+        "answer": "37 men in all",
+        "reference": "2 Samuel 23:39"
+    },
+    {
+        "id": 546,
+        "category": "Biblical Numbers",
+        "question": "When David sinned by numbering Israel, how many days of pestilence did the prophet Gad offer as judgment?",
+        "answer": "3 days",
+        "reference": "2 Samuel 24:13"
+    },
+    {
+        "id": 547,
+        "category": "Biblical Numbers",
+        "question": "How many men of Israel died during the three-day pestilence following David's census?",
+        "answer": "70,000 men",
+        "reference": "2 Samuel 24:15"
+    },
+    {
+        "id": 548,
+        "category": "Biblical Numbers",
+        "question": "According to 1 Kings 4:32, how many proverbs did King Solomon speak?",
+        "answer": "3,000 proverbs",
+        "reference": "1 Kings 4:32"
+    },
+    {
+        "id": 549,
+        "category": "Biblical Numbers",
+        "question": "According to 1 Kings 4:32, how many songs did King Solomon compose?",
+        "answer": "1,005 songs",
+        "reference": "1 Kings 4:32"
+    },
+    {
+        "id": 550,
+        "category": "Biblical Numbers",
+        "question": "How many years did it take Solomon to construct the temple of the Lord in Jerusalem?",
+        "answer": "7 years",
+        "reference": "1 Kings 6:38"
+    },
+    {
+        "id": 551,
+        "category": "Biblical Numbers",
+        "question": "How many years did it take King Solomon to build his own royal palace?",
+        "answer": "13 years",
+        "reference": "1 Kings 7:1"
+    },
+    {
+        "id": 552,
+        "category": "Biblical Numbers",
+        "question": "According to 1 Kings 11:3, how many wives of royal birth and concubines did Solomon possess?",
+        "answer": "700 wives and 300 concubines (1,000 in total)",
+        "reference": "1 Kings 11:3"
+    },
+    {
+        "id": 553,
+        "category": "Biblical Numbers",
+        "question": "According to 1 Kings 10:14, how many talents of gold came to King Solomon in a single year?",
+        "answer": "666 talents of gold",
+        "reference": "1 Kings 10:14"
+    },
+    {
+        "id": 554,
+        "category": "Biblical Numbers",
+        "question": "How many prophets of Baal did Elijah challenge to the contest of fire on Mount Carmel?",
+        "answer": "450 prophets",
+        "reference": "1 Kings 18:19"
+    },
+    {
+        "id": 555,
+        "category": "Biblical Numbers",
+        "question": "How many prophets of Asherah who ate at Jezebel's table were summoned to Mount Carmel?",
+        "answer": "400 prophets",
+        "reference": "1 Kings 18:19"
+    },
+    {
+        "id": 556,
+        "category": "Biblical Numbers",
+        "question": "According to 1 Kings 19:18, how many faithful people in Israel had never bowed their knees to Baal?",
+        "answer": "7,000 people",
+        "reference": "1 Kings 19:18"
+    },
+    {
+        "id": 557,
+        "category": "Biblical Numbers",
+        "question": "How many Assyrian soldiers did the angel of the Lord strike down in Sennacherib's camp in a single night?",
+        "answer": "185,000 soldiers",
+        "reference": "2 Kings 19:35"
+    },
+    {
+        "id": 558,
+        "category": "Biblical Numbers",
+        "question": "How many additional years of life did God grant King Hezekiah in answer to his weeping prayer?",
+        "answer": "15 years",
+        "reference": "2 Kings 20:6"
+    },
+    {
+        "id": 559,
+        "category": "Biblical Numbers",
+        "question": "As a miraculous sign to Hezekiah, how many steps did the shadow reverse on the sundial of Ahaz?",
+        "answer": "10 steps",
+        "reference": "2 Kings 20:11"
+    },
+    {
+        "id": 560,
+        "category": "Biblical Numbers",
+        "question": "For how many years did King Manasseh reign in Jerusalem, the longest reign of any monarch of Judah?",
+        "answer": "55 years",
+        "reference": "2 Kings 21:1"
+    },
+    {
+        "id": 561,
+        "category": "Biblical Numbers",
+        "question": "How old was Josiah when he began his reign over the kingdom of Judah?",
+        "answer": "8 years old",
+        "reference": "2 Kings 22:1"
+    },
+    {
+        "id": 562,
+        "category": "Biblical Numbers",
+        "question": "How many days did it take Nehemiah and his team to complete the rebuilding of the wall of Jerusalem?",
+        "answer": "52 days",
+        "reference": "Nehemiah 6:15"
+    },
+    {
+        "id": 563,
+        "category": "Biblical Numbers",
+        "question": "According to Ezra 2:64, what was the total count of the returned Jewish exiles who journeyed back to Jerusalem?",
+        "answer": "42,360 people (besides male and female servants)",
+        "reference": "Ezra 2:64"
+    },
+    {
+        "id": 564,
+        "category": "Biblical Numbers",
+        "question": "For how many days and nights did Esther instruct the Jews in Susa to fast before she approached the king?",
+        "answer": "3 days and 3 nights",
+        "reference": "Esther 4:16"
+    },
+    {
+        "id": 565,
+        "category": "Biblical Numbers",
+        "question": "What was the height of the gallows that Haman erected to execute Mordecai?",
+        "answer": "50 cubits (approx. 75 feet)",
+        "reference": "Esther 5:14"
+    },
+    {
+        "id": 566,
+        "category": "Biblical Numbers",
+        "question": "How many provinces were in the Persian Empire under King Ahasuerus, stretching from India to Ethiopia?",
+        "answer": "127 provinces",
+        "reference": "Esther 1:1"
+    },
+    {
+        "id": 567,
+        "category": "Biblical Numbers",
+        "question": "How many total children did Job have before they were tragically killed in a collapse caused by a great wind?",
+        "answer": "10 children (7 sons and 3 daughters)",
+        "reference": "Job 1:2, 19"
+    },
+    {
+        "id": 568,
+        "category": "Biblical Numbers",
+        "question": "For how many days and nights did Job's three friends sit on the ground with him in total silence before speaking?",
+        "answer": "7 days and 7 nights",
+        "reference": "Job 2:13"
+    },
+    {
+        "id": 569,
+        "category": "Biblical Numbers",
+        "question": "How many additional years did Job live after the Lord restored his fortunes and health?",
+        "answer": "140 years",
+        "reference": "Job 42:16"
+    },
+    {
+        "id": 570,
+        "category": "Biblical Numbers",
+        "question": "How many total individual psalms are contained in the biblical Book of Psalms?",
+        "answer": "150 psalms",
+        "reference": "Book of Psalms"
+    },
+    {
+        "id": 571,
+        "category": "Biblical Numbers",
+        "question": "How many verses are in Psalm 119, making it the longest chapter in the entire Bible?",
+        "answer": "176 verses",
+        "reference": "Psalm 119"
+    },
+    {
+        "id": 572,
+        "category": "Biblical Numbers",
+        "question": "How many letters of the Hebrew alphabet structure the acrostic sections of Psalm 119?",
+        "answer": "22 letters (each heading an 8-verse stanza)",
+        "reference": "Psalm 119"
+    },
+    {
+        "id": 573,
+        "category": "Biblical Numbers",
+        "question": "What were the dimensions of King Nebuchadnezzar's golden image on the plain of Dura?",
+        "answer": "60 cubits high and 6 cubits wide",
+        "reference": "Daniel 3:1"
+    },
+    {
+        "id": 574,
+        "category": "Biblical Numbers",
+        "question": "How many times hotter than usual did Nebuchadnezzar order the fiery furnace to be heated for Daniel's three friends?",
+        "answer": "7 times hotter",
+        "reference": "Daniel 3:19"
+    },
+    {
+        "id": 575,
+        "category": "Biblical Numbers",
+        "question": "How many times each day did Daniel kneel down in his room to pray and give thanks toward Jerusalem?",
+        "answer": "3 times a day",
+        "reference": "Daniel 6:10"
+    },
+    {
+        "id": 576,
+        "category": "Biblical Numbers",
+        "question": "How many total books are in the Old Testament of the Protestant Bible?",
+        "answer": "39 books",
+        "reference": "Protestant Canon"
+    },
+    {
+        "id": 577,
+        "category": "Biblical Numbers",
+        "question": "How many total books are in the New Testament of the Protestant Bible?",
+        "answer": "27 books",
+        "reference": "Protestant Canon"
+    },
+    {
+        "id": 578,
+        "category": "Biblical Numbers",
+        "question": "How many total books comprise the entire Protestant Bible (Old and New Testaments combined)?",
+        "answer": "66 books",
+        "reference": "Protestant Canon"
+    },
+    {
+        "id": 579,
+        "category": "Biblical Numbers",
+        "question": "How many total chapters are there in the Old and New Testaments of the Protestant Bible?",
+        "answer": "1,189 chapters (929 in the OT and 260 in the NT)",
+        "reference": "Protestant Canon"
+    },
+    {
+        "id": 580,
+        "category": "Biblical Numbers",
+        "question": "According to Matthew 1:17, how many generations were there from Abraham to David?",
+        "answer": "14 generations",
+        "reference": "Matthew 1:17"
+    },
+    {
+        "id": 581,
+        "category": "Biblical Numbers",
+        "question": "How many apostles did Jesus designate to be with Him and to send out to preach?",
+        "answer": "12 apostles",
+        "reference": "Mark 3:14"
+    },
+    {
+        "id": 582,
+        "category": "Biblical Numbers",
+        "question": "How many pieces of silver was Judas Iscariot paid to betray Jesus to the chief priests?",
+        "answer": "30 pieces of silver",
+        "reference": "Matthew 26:15"
+    },
+    {
+        "id": 583,
+        "category": "Biblical Numbers",
+        "question": "How many times did Peter deny knowing Jesus before the rooster crowed on the night of Jesus' arrest?",
+        "answer": "3 times",
+        "reference": "Matthew 26:34, 75"
+    },
+    {
+        "id": 584,
+        "category": "Biblical Numbers",
+        "question": "In Matthew 18:22, how many times did Jesus tell Peter he should be prepared to forgive his brother?",
+        "answer": "77 times (or seventy times seven / 490)",
+        "reference": "Matthew 18:22"
+    },
+    {
+        "id": 585,
+        "category": "Biblical Numbers",
+        "question": "How many men did Jesus feed with five barley loaves and two fish, besides women and children?",
+        "answer": "5,000 men",
+        "reference": "Matthew 14:21"
+    },
+    {
+        "id": 586,
+        "category": "Biblical Numbers",
+        "question": "How many baskets full of broken pieces were gathered after the miraculous feeding of the 5,000?",
+        "answer": "12 baskets",
+        "reference": "Matthew 14:20"
+    },
+    {
+        "id": 587,
+        "category": "Biblical Numbers",
+        "question": "In the second feeding miracle recorded in Matthew 15, how many men did Jesus feed with seven loaves and a few fish?",
+        "answer": "4,000 men (besides women and children)",
+        "reference": "Matthew 15:38"
+    },
+    {
+        "id": 588,
+        "category": "Biblical Numbers",
+        "question": "How many large baskets of leftover fragments were picked up after the feeding of the 4,000?",
+        "answer": "7 baskets",
+        "reference": "Matthew 15:37"
+    },
+    {
+        "id": 589,
+        "category": "Biblical Numbers",
+        "question": "For how many hours did darkness fall over the whole land during the crucifixion of Jesus?",
+        "answer": "3 hours (from the 6th hour to the 9th hour)",
+        "reference": "Matthew 27:45"
+    },
+    {
+        "id": 590,
+        "category": "Biblical Numbers",
+        "question": "For how many days after His resurrection did Jesus appear to the disciples speaking about the kingdom of God?",
+        "answer": "40 days",
+        "reference": "Acts 1:3"
+    },
+    {
+        "id": 591,
+        "category": "Biblical Numbers",
+        "question": "Approximately how many souls were added to the church and baptized on the Day of Pentecost in Acts 2?",
+        "answer": "About 3,000 souls",
+        "reference": "Acts 2:41"
+    },
+    {
+        "id": 592,
+        "category": "Biblical Numbers",
+        "question": "How many men of good repute were chosen to oversee the daily distribution of food in Acts 6?",
+        "answer": "7 men",
+        "reference": "Acts 6:3"
+    },
+    {
+        "id": 593,
+        "category": "Biblical Numbers",
+        "question": "According to Acts 27:37, how many persons in total were aboard the grain ship when Paul was shipwrecked on Malta?",
+        "answer": "276 persons",
+        "reference": "Acts 27:37"
+    },
+    {
+        "id": 594,
+        "category": "Biblical Numbers",
+        "question": "According to John 21:11, exactly how many large fish did Simon Peter haul ashore in the unbroken net?",
+        "answer": "153 fish",
+        "reference": "John 21:11"
+    },
+    {
+        "id": 595,
+        "category": "Biblical Numbers",
+        "question": "How many elders are seated around the throne of God clothed in white with golden crowns in Revelation 4?",
+        "answer": "24 elders",
+        "reference": "Revelation 4:4"
+    },
+    {
+        "id": 596,
+        "category": "Biblical Numbers",
+        "question": "How many living creatures, full of eyes in front and behind, surround the heavenly throne in Revelation 4?",
+        "answer": "4 living creatures",
+        "reference": "Revelation 4:6"
+    },
+    {
+        "id": 597,
+        "category": "Biblical Numbers",
+        "question": "How many seals are on the scroll that only the Lamb of God is worthy to open in Revelation 5?",
+        "answer": "7 seals",
+        "reference": "Revelation 5:1"
+    },
+    {
+        "id": 598,
+        "category": "Biblical Numbers",
+        "question": "According to Revelation 7:4, how many servants of God were sealed from all the tribes of the sons of Israel?",
+        "answer": "144,000 (12,000 from each of the 12 tribes)",
+        "reference": "Revelation 7:4"
+    },
+    {
+        "id": 599,
+        "category": "Biblical Numbers",
+        "question": "In Revelation 13:18, what is the famous number of the beast, identified as the number of a man?",
+        "answer": "666",
+        "reference": "Revelation 13:18"
+    },
+    {
+        "id": 600,
+        "category": "Biblical Numbers",
+        "question": "In Revelation 20:1-3, for how many years is the dragon (Satan) bound in the bottomless pit?",
+        "answer": "1,000 years",
+        "reference": "Revelation 20:2"
+    }
+]

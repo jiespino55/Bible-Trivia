@@ -27,7 +27,11 @@ async function loadQuestions() {
         "data/oldTestament.json",
         "data/newTestament.json",
         "data/finishVerse.json",
-        "data/bibleChar.json"
+        "data/bibleChar.json",
+        "data/biblicalNum.json",
+        "data/biblicalWordsMeanings.json",
+        "data/theologyDoctrinesTerms.json",
+        "data/realOrAi.json"
     ];
 
     const responses = await Promise.all(

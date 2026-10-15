@@ -1,0 +1,702 @@
+[
+    {
+        "id": 701,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What branch of systematic theology deals specifically with the study of the person and work of Jesus Christ?",
+        "answer": "Christology",
+        "reference": "Systematic Theology / Colossians 1:15-20"
+    },
+    {
+        "id": 702,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What branch of systematic theology is dedicated to the study of the Holy Spirit?",
+        "answer": "Pneumatology",
+        "reference": "Systematic Theology / John 14:16-17"
+    },
+    {
+        "id": 703,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What is the theological term for the study of the doctrine of salvation?",
+        "answer": "Soteriology",
+        "reference": "Systematic Theology / Ephesians 2:8-10"
+    },
+    {
+        "id": 704,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What branch of theology focuses on the 'last things' or end times, including the return of Christ, resurrection, and final judgment?",
+        "answer": "Eschatology",
+        "reference": "Systematic Theology / Revelation 19–22"
+    },
+    {
+        "id": 705,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What branch of theology focuses on the nature, structure, ordinances, and mission of the church?",
+        "answer": "Ecclesiology",
+        "reference": "Systematic Theology / 1 Timothy 3:15"
+    },
+    {
+        "id": 706,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What is the theological term for the study of the nature, origin, and consequences of sin?",
+        "answer": "Hamartiology",
+        "reference": "Systematic Theology / Romans 5:12-21"
+    },
+    {
+        "id": 707,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What branch of systematic theology studies the nature, inspiration, canon, and authority of the Bible?",
+        "answer": "Bibliology",
+        "reference": "Systematic Theology / 2 Timothy 3:16"
+    },
+    {
+        "id": 708,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What is the technical theological term for the study of God Himself, including His existence, attributes, and triune nature?",
+        "answer": "Theology Proper",
+        "reference": "Systematic Theology / Psalm 90:2"
+    },
+    {
+        "id": 709,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What branch of Christian theology investigates the origin, nature, and purpose of humanity created in God's image?",
+        "answer": "Theological Anthropology",
+        "reference": "Systematic Theology / Genesis 1:26-27"
+    },
+    {
+        "id": 710,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What theological discipline examines the study of angels, including their creation, ranks, and biblical ministry?",
+        "answer": "Angelology",
+        "reference": "Systematic Theology / Hebrews 1:14"
+    },
+    {
+        "id": 711,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What is the theological branch that studies fallen angels, demons, and the operations of Satan?",
+        "answer": "Demonology",
+        "reference": "Systematic Theology / Ephesians 6:11-12"
+    },
+    {
+        "id": 712,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What doctrine affirms that the original manuscripts of Scripture are completely truthful and free from error in all that they affirm?",
+        "answer": "Biblical Inerrancy",
+        "reference": "Chicago Statement on Biblical Inerrancy / Psalm 19:7"
+    },
+    {
+        "id": 713,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What doctrine asserts that Scripture is trustworthy and will never fail or deceive in its purpose to lead humanity to salvation and truth?",
+        "answer": "Biblical Infallibility",
+        "reference": "Systematic Theology / John 10:35"
+    },
+    {
+        "id": 714,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What term describes the supernatural influence of the Holy Spirit on biblical writers, ensuring their writings convey God's exact revelation?",
+        "answer": "Inspiration (Biblical Inspiration)",
+        "reference": "2 Peter 1:20-21"
+    },
+    {
+        "id": 715,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What theological term describes the ongoing work of the Holy Spirit helping believers understand and apply biblical truth?",
+        "answer": "Illumination",
+        "reference": "1 Corinthians 2:12-14"
+    },
+    {
+        "id": 716,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What term refers to the authoritative, recognized collection of books accepted as inspired Scripture by the Christian church?",
+        "answer": "The Canon (Biblical Canon)",
+        "reference": "Historical Theology / Revelation 22:18-19"
+    },
+    {
+        "id": 717,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What foundational Christian doctrine confesses one God who eternally exists in three co-equal, co-eternal persons?",
+        "answer": "The Trinity (The Triune God)",
+        "reference": "Matthew 28:19 / 2 Corinthians 13:14"
+    },
+    {
+        "id": 718,
+        "category": "Theology, Doctrines & Terms",
+        "question": "Which divine attribute denotes that God is all-knowing, possessing complete knowledge of all actual and possible things?",
+        "answer": "Omniscience",
+        "reference": "1 John 3:20 / Psalm 139:1-6"
+    },
+    {
+        "id": 719,
+        "category": "Theology, Doctrines & Terms",
+        "question": "Which divine attribute denotes that God is all-powerful, possessing supreme authority and unlimited power to accomplish His will?",
+        "answer": "Omnipotence",
+        "reference": "Jeremiah 32:17 / Revelation 19:6"
+    },
+    {
+        "id": 720,
+        "category": "Theology, Doctrines & Terms",
+        "question": "Which divine attribute denotes that God is present everywhere with His whole being at all times?",
+        "answer": "Omnipresence",
+        "reference": "Psalm 139:7-10 / Jeremiah 23:23-24"
+    },
+    {
+        "id": 721,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What theological term describes God's unchanging nature, character, will, and covenant promises?",
+        "answer": "Immutability",
+        "reference": "Malachi 3:6 / James 1:17"
+    },
+    {
+        "id": 722,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What divine attribute states that God is completely self-existent, independent, and needs nothing from creation?",
+        "answer": "Aseity (Self-existence)",
+        "reference": "Acts 17:24-25 / John 5:26"
+    },
+    {
+        "id": 723,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What classical theological doctrine asserts that God is not composed of separate parts, but that all His attributes are identical with His unified divine essence?",
+        "answer": "Divine Simplicity",
+        "reference": "Classical Theism / Deuteronomy 6:4"
+    },
+    {
+        "id": 724,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What term describes God's supreme authority, rule, and providential control over all events in the universe?",
+        "answer": "Sovereignty (Divine Sovereignty)",
+        "reference": "Psalm 103:19 / Ephesians 1:11"
+    },
+    {
+        "id": 725,
+        "category": "Theology, Doctrines & Terms",
+        "question": "Which 4th-century heresy claimed that the Son was not co-eternal with the Father, teaching 'there was a time when he was not'?",
+        "answer": "Arianism",
+        "reference": "Council of Nicaea (AD 325)"
+    },
+    {
+        "id": 726,
+        "category": "Theology, Doctrines & Terms",
+        "question": "Which 2nd-century heresy taught that the physical world is inherently corrupt and that salvation comes through secret mystical knowledge (*gnosis*)?",
+        "answer": "Gnosticism",
+        "reference": "Early Church History / 1 Timothy 6:20"
+    },
+    {
+        "id": 727,
+        "category": "Theology, Doctrines & Terms",
+        "question": "Which heresy claimed that Jesus was not truly human, but only seemed or appeared to have a physical human body?",
+        "answer": "Docetism",
+        "reference": "1 John 4:2-3 / 2 John 1:7"
+    },
+    {
+        "id": 728,
+        "category": "Theology, Doctrines & Terms",
+        "question": "Which 5th-century heresy denied original sin, arguing that human beings possess the free moral capacity to live sinlessly without divine grace?",
+        "answer": "Pelagianism",
+        "reference": "Council of Carthage (AD 418)"
+    },
+    {
+        "id": 729,
+        "category": "Theology, Doctrines & Terms",
+        "question": "Which heresy (also known as Sabellianism) denies distinct Trinitarian persons, claiming God is one person who reveals Himself in three consecutive 'modes' or masks?",
+        "answer": "Modalism (Modalistic Monarchianism)",
+        "reference": "Early Church History / Matthew 3:16-17"
+    },
+    {
+        "id": 730,
+        "category": "Theology, Doctrines & Terms",
+        "question": "Which 2nd-century heresy rejected the entire Old Testament and its Creator God, accepting only an edited version of Luke and Paul's letters?",
+        "answer": "Marcionism",
+        "reference": "Early Church History / Tertullian, Against Marcion"
+    },
+    {
+        "id": 731,
+        "category": "Theology, Doctrines & Terms",
+        "question": "Which 5th-century Christological error divided Christ into two separate persons (one divine and one human) loosely joined together?",
+        "answer": "Nestorianism",
+        "reference": "Council of Ephesus (AD 431)"
+    },
+    {
+        "id": 732,
+        "category": "Theology, Doctrines & Terms",
+        "question": "Which heresy proposed that Christ possessed a divine mind (*logos*) in place of a human rational soul or mind?",
+        "answer": "Apollinarianism",
+        "reference": "Council of Constantinople (AD 381)"
+    },
+    {
+        "id": 733,
+        "category": "Theology, Doctrines & Terms",
+        "question": "Which heresy claimed that Christ's human nature was completely absorbed and dissolved into His divine nature, leaving Him with only one combined divine nature?",
+        "answer": "Eutychianism (Monophysitism)",
+        "reference": "Council of Chalcedon (AD 451)"
+    },
+    {
+        "id": 734,
+        "category": "Theology, Doctrines & Terms",
+        "question": "Which 2nd-century movement claimed new prophetic revelations that surpassed the authority of Scripture and the apostles?",
+        "answer": "Montanism",
+        "reference": "Early Church History / Jude 1:3"
+    },
+    {
+        "id": 735,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What is the term for the theological error asserting that under grace, believers are free from all moral obligations and the moral law of God?",
+        "answer": "Antinomianism",
+        "reference": "Romans 6:1-2 / Jude 1:4"
+    },
+    {
+        "id": 736,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What is the theological error of attempting to earn or maintain salvation through strict adherence to human rules and ceremonial law?",
+        "answer": "Legalism",
+        "reference": "Galatians 3:1-3 / Colossians 2:20-23"
+    },
+    {
+        "id": 737,
+        "category": "Theology, Doctrines & Terms",
+        "question": "Which heresy taught that Jesus was an ordinary man who was 'adopted' as God's Son at His baptism because of His personal righteousness?",
+        "answer": "Adoptionism (Dynamic Monarchianism)",
+        "reference": "Early Church History / Romans 1:3-4"
+    },
+    {
+        "id": 738,
+        "category": "Theology, Doctrines & Terms",
+        "question": "Which Christological heresy asserted that Christ possessed two natures but only one divine will, denying His human will?",
+        "answer": "Monothelitism",
+        "reference": "Third Council of Constantinople (AD 680–681)"
+    },
+    {
+        "id": 739,
+        "category": "Theology, Doctrines & Terms",
+        "question": "Which intermediate theological view asserted that humanity was only partially corrupted by the Fall and initiates salvation through free will before receiving grace?",
+        "answer": "Semi-Pelagianism",
+        "reference": "Council of Orange (AD 529)"
+    },
+    {
+        "id": 740,
+        "category": "Theology, Doctrines & Terms",
+        "question": "Which ecumenical council convened in AD 325 to refute Arianism and formulate the first universal Christian creed?",
+        "answer": "The First Council of Nicaea",
+        "reference": "Church History (AD 325)"
+    },
+    {
+        "id": 741,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What Greek word meaning 'of the same substance or essence' was inserted into the Nicene Creed to define Christ's co-equality with the Father?",
+        "answer": "Homoousios",
+        "reference": "Nicene Creed (AD 325)"
+    },
+    {
+        "id": 742,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What semi-Arian Greek term meaning 'of similar substance' was rejected at Nicaea because it implied Christ was merely like God rather than truly God?",
+        "answer": "Homoiousios",
+        "reference": "Fourth-Century Trinitarian Debates"
+    },
+    {
+        "id": 743,
+        "category": "Theology, Doctrines & Terms",
+        "question": "Which ecumenical council in AD 451 defined Christ as one person existing in two full natures (truly God and truly man) without confusion, change, division, or separation?",
+        "answer": "The Council of Chalcedon",
+        "reference": "Chalcedonian Definition (AD 451)"
+    },
+    {
+        "id": 744,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What theological doctrine describes the unconfused union of Christ's full divine and full human natures in one indivisible person?",
+        "answer": "The Hypostatic Union",
+        "reference": "Council of Chalcedon / John 1:14"
+    },
+    {
+        "id": 745,
+        "category": "Theology, Doctrines & Terms",
+        "question": "Which ancient Greek title meaning 'God-bearer' was affirmed for the Virgin Mary at the Council of Ephesus (AD 431) to safeguard Christ's true deity?",
+        "answer": "Theotokos",
+        "reference": "Council of Ephesus (AD 431)"
+    },
+    {
+        "id": 746,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What Latin phrase ('and from the Son'), added to the Nicene Creed by the Western church, became a major catalyst for the Great Schism of 1054?",
+        "answer": "The Filioque clause",
+        "reference": "Council of Toledo (AD 589) / John 15:26"
+    },
+    {
+        "id": 747,
+        "category": "Theology, Doctrines & Terms",
+        "question": "Which ecumenical council in AD 381 expanded the Nicene Creed to explicitly articulate the full deity and worship of the Holy Spirit?",
+        "answer": "The First Council of Constantinople",
+        "reference": "Nicene-Constantinopolitan Creed (AD 381)"
+    },
+    {
+        "id": 748,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What Greek term describes the mutual indwelling and interpenetration of the three persons of the Trinity without mixing or dividing their distinct identities?",
+        "answer": "Perichoresis (Circumincession)",
+        "reference": "Trinitarian Theology / John 14:10-11"
+    },
+    {
+        "id": 749,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What ancient creed, traditionally recited in Western churches, begins with 'I believe in God, the Father almighty, creator of heaven and earth'?",
+        "answer": "The Apostles' Creed",
+        "reference": "Early Church Creeds"
+    },
+    {
+        "id": 750,
+        "category": "Theology, Doctrines & Terms",
+        "question": "Which rigorous early creed begins by declaring that whoever desires to be saved must hold the catholic (universal) faith concerning the Trinity and the Incarnation?",
+        "answer": "The Athanasian Creed",
+        "reference": "Historical Creeds (ca. 5th Century)"
+    },
+    {
+        "id": 751,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What is the legal act of God in which He pardons a sinner's sins and declares them perfectly righteous through faith in Jesus Christ?",
+        "answer": "Justification",
+        "reference": "Romans 3:24-28 / Romans 5:1"
+    },
+    {
+        "id": 752,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What theological term describes the progressive, lifelong work of the Holy Spirit transforming a justified believer into the moral likeness of Jesus Christ?",
+        "answer": "Sanctification",
+        "reference": "1 Thessalonians 4:3 / Philippians 2:12-13"
+    },
+    {
+        "id": 753,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What is the final stage of salvation where believers are resurrected, delivered from the very presence of sin, and given glorified bodies?",
+        "answer": "Glorification",
+        "reference": "Romans 8:30 / 1 Corinthians 15:52-54"
+    },
+    {
+        "id": 754,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What theological term describes the supernatural act of the Holy Spirit imparting new spiritual life to a spiritually dead sinner (being 'born again')?",
+        "answer": "Regeneration",
+        "reference": "Titus 3:5 / John 3:3-8"
+    },
+    {
+        "id": 755,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What biblical term describes a sacrificial offering that satisfies divine justice and turns away the holy wrath of God from the sinner?",
+        "answer": "Propitiation",
+        "reference": "Romans 3:25 / 1 John 2:2"
+    },
+    {
+        "id": 756,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What theological term describes the removal, cleansing, or wiping away of sin and guilt through sacrifice?",
+        "answer": "Expiation",
+        "reference": "Hebrews 9:14 / Leviticus 16:30"
+    },
+    {
+        "id": 757,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What legal concept refers to God crediting the perfect righteousness of Christ to the believer's account, and charging the believer's sins to Christ on the cross?",
+        "answer": "Imputation (Double Imputation)",
+        "reference": "2 Corinthians 5:21 / Romans 4:3-5"
+    },
+    {
+        "id": 758,
+        "category": "Theology, Doctrines & Terms",
+        "question": "Which historic theory of the atonement asserts that Christ took the legal penalty deserved by sinners upon Himself, suffering as their substitute to satisfy God's justice?",
+        "answer": "Penal Substitutionary Atonement",
+        "reference": "Isaiah 53:5-6 / 1 Peter 2:24"
+    },
+    {
+        "id": 759,
+        "category": "Theology, Doctrines & Terms",
+        "question": "Which classical view of the atonement emphasizes Christ's cross and resurrection as the cosmic, decisive victory over Satan, sin, and death?",
+        "answer": "Christus Victor",
+        "reference": "Colossians 2:15 / Hebrews 2:14-15"
+    },
+    {
+        "id": 760,
+        "category": "Theology, Doctrines & Terms",
+        "question": "Which atonement theory, pioneered by Peter Abelard, argues that the primary purpose of Christ's death was to demonstrate God's profound love and inspire humanity to love Him in return?",
+        "answer": "Moral Influence Theory",
+        "reference": "Historical Theology / 1 John 4:10"
+    },
+    {
+        "id": 761,
+        "category": "Theology, Doctrines & Terms",
+        "question": "Which early church theory suggested that Christ's death was paid as a ransom price to Satan to liberate humanity from his dominion?",
+        "answer": "Ransom Theory of the Atonement",
+        "reference": "Historical Theology / Mark 10:45"
+    },
+    {
+        "id": 762,
+        "category": "Theology, Doctrines & Terms",
+        "question": "Which satisfaction model, formulated by Anselm of Canterbury in 'Cur Deus Homo', argues that Christ's death paid infinite satisfaction to restore God's offended honor?",
+        "answer": "Satisfaction Theory",
+        "reference": "Anselm of Canterbury (11th Century)"
+    },
+    {
+        "id": 763,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What is the theological doctrine asserting that Christ's redemptive work reconciles alienated sinners into peace and fellowship with God?",
+        "answer": "Reconciliation",
+        "reference": "2 Corinthians 5:18-19 / Romans 5:10"
+    },
+    {
+        "id": 764,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What term describes God receiving believers into His family with all the legal rights, privileges, and inheritance of His own children?",
+        "answer": "Adoption",
+        "reference": "Romans 8:15-17 / Galatians 4:4-6"
+    },
+    {
+        "id": 765,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What is the Latin phrase for the 'order of salvation', denoting the logical sequence of benefits in the application of redemption to the believer?",
+        "answer": "Ordo Salutis",
+        "reference": "Systematic Theology / Romans 8:29-30"
+    },
+    {
+        "id": 766,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What theological framework, rooted in the teachings of John Calvin, emphasizes absolute divine sovereignty and unconditional election?",
+        "answer": "Calvinism (Reformed Theology)",
+        "reference": "Historic Protestantism / Ephesians 1:4-11"
+    },
+    {
+        "id": 767,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What five-letter acronym summarizes the five points of Calvinism formulated at the Synod of Dort (1618–1619)?",
+        "answer": "TULIP",
+        "reference": "Synod of Dort (1618–1619)"
+    },
+    {
+        "id": 768,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What theological system, named after Jacobus Arminius, asserts that God's election is based on foreseen faith and that human free will cooperates with prevenient grace?",
+        "answer": "Arminianism",
+        "reference": "Five Articles of Remonstrance (1610)"
+    },
+    {
+        "id": 769,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What is the theological term for divine grace that precedes human decision and enables a fallen sinner to freely respond to the gospel?",
+        "answer": "Prevenient Grace",
+        "reference": "Wesleyan & Arminian Theology / John 6:44"
+    },
+    {
+        "id": 770,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What eschatological position holds that the 'thousand years' of Revelation 20 is a symbolic spiritual reign of Christ occurring during the present church age?",
+        "answer": "Amillennialism",
+        "reference": "Eschatology / Revelation 20:1-6"
+    },
+    {
+        "id": 771,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What eschatological viewpoint teaches that Christ will return bodily to earth before inaugurating a literal one-thousand-year reign on earth?",
+        "answer": "Premillennialism",
+        "reference": "Eschatology / Revelation 19–20"
+    },
+    {
+        "id": 772,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What eschatological position teaches that the world will be progressively Christianized through the gospel before the return of Christ?",
+        "answer": "Postmillennialism",
+        "reference": "Eschatology / Matthew 13:31-33"
+    },
+    {
+        "id": 773,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What theological framework, popularized by John Nelson Darby and C.I. Scofield, divides biblical history into distinct administrative dispensations and posits a pre-tribulation rapture?",
+        "answer": "Dispensationalism",
+        "reference": "Modern Theology / Scofield Reference Bible"
+    },
+    {
+        "id": 774,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What theological view holds that the sign gifts of the Holy Spirit (such as miraculous healing and tongues) ceased with the death of the apostles and the completion of the canon?",
+        "answer": "Cessationism",
+        "reference": "1 Corinthians 13:8-10 / Hebrews 2:3-4"
+    },
+    {
+        "id": 775,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What theological position holds that all spiritual gifts mentioned in the New Testament are intended to continue operative in the church today?",
+        "answer": "Continuationism",
+        "reference": "1 Corinthians 12:7-11 / 1 Corinthians 14:1"
+    },
+    {
+        "id": 776,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What doctrine teaches that the Holy Spirit alone regenerates a sinner without any prior cooperation or contribution from human free will?",
+        "answer": "Monergism",
+        "reference": "Reformed Theology / John 1:12-13"
+    },
+    {
+        "id": 777,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What doctrine teaches that salvation involves the cooperation of divine grace and human free will?",
+        "answer": "Synergism",
+        "reference": "Arminian & Eastern Orthodox Theology"
+    },
+    {
+        "id": 778,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What philosophical-theological model, developed by Luis de Molina, reconciles human free will and divine sovereignty through God's 'middle knowledge' (*scientia media*)?",
+        "answer": "Molinism",
+        "reference": "Philosophical Theology / 1 Samuel 23:11-13"
+    },
+    {
+        "id": 779,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What controversial theological view claims that God does not possess exhaustive foreknowledge of future human free choices because they do not yet exist to be known?",
+        "answer": "Open Theism (The Openness of God)",
+        "reference": "Contemporary Theology"
+    },
+    {
+        "id": 780,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What doctrine states that Adam acted as the legal representative of all humanity in the Garden of Eden, so that his sin was imputed to his descendants?",
+        "answer": "Federal Headship (Federalism)",
+        "reference": "Romans 5:12-19 / 1 Corinthians 15:21-22"
+    },
+    {
+        "id": 781,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What is the science and art of biblical interpretation dealing with the rules and methods for understanding ancient texts?",
+        "answer": "Hermeneutics",
+        "reference": "Biblical Studies / Luke 24:27"
+    },
+    {
+        "id": 782,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What is the critical analysis and explanation of Scripture derived from drawing meaning directly 'out of' the original text?",
+        "answer": "Exegesis",
+        "reference": "Biblical Studies / 2 Timothy 2:15"
+    },
+    {
+        "id": 783,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What is the improper practice of reading one's own subjective ideas, modern biases, or presuppositions 'into' a biblical passage?",
+        "answer": "Eisegesis",
+        "reference": "Biblical Studies / 2 Peter 3:16"
+    },
+    {
+        "id": 784,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What method of biblical interpretation seeks to uncover the author's original intended meaning by analyzing grammatical syntax and historical context?",
+        "answer": "The Grammatical-Historical Method",
+        "reference": "Hermeneutics"
+    },
+    {
+        "id": 785,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What interpretive concept studies Old Testament historical persons, institutions, or events that prefigure and foreshadow Christ and His redemptive work in the New Testament?",
+        "answer": "Typology",
+        "reference": "Romans 5:14 / 1 Corinthians 10:6"
+    },
+    {
+        "id": 786,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What Latin hermeneutical term refers to a deeper, fuller meaning intended by God in a passage that the original human author may not have fully comprehended?",
+        "answer": "Sensus Plenior",
+        "reference": "1 Peter 1:10-12"
+    },
+    {
+        "id": 787,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What hermeneutical fallacy involves pulling isolated verses out of their literary context to prove a preconceived theological argument?",
+        "answer": "Proof-Texting",
+        "reference": "Hermeneutics"
+    },
+    {
+        "id": 788,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What classical Reformation hermeneutical principle states that Scripture is its own best interpreter, meaning clearer passages should interpret obscure ones?",
+        "answer": "The Analogy of Faith (Analogia Fidei / Scripture Interprets Scripture)",
+        "reference": "Reformation Hermeneutics / 2 Peter 1:20"
+    },
+    {
+        "id": 789,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What 16th-century religious movement sought to reform the Western Christian church according to the authority of Scripture?",
+        "answer": "The Protestant Reformation",
+        "reference": "Church History (1517)"
+    },
+    {
+        "id": 790,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What Reformation principle asserts that the Bible alone is the final, supreme, and infallible authority in all matters of faith and practice?",
+        "answer": "Sola Scriptura (Scripture Alone)",
+        "reference": "2 Timothy 3:16-17"
+    },
+    {
+        "id": 791,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What Reformation doctrine asserts that justification and salvation are received entirely as an unmerited gift, without human merit?",
+        "answer": "Sola Gratia (Grace Alone)",
+        "reference": "Ephesians 2:8-9"
+    },
+    {
+        "id": 792,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What foundational Reformation doctrine asserts that a person is justified solely through trust in Jesus Christ and not by religious works?",
+        "answer": "Sola Fide (Faith Alone)",
+        "reference": "Romans 3:28 / Galatians 2:16"
+    },
+    {
+        "id": 793,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What Reformation slogan proclaims that Jesus Christ is the sole mediator between God and humanity, and salvation is found in no other?",
+        "answer": "Solus Christus (Christ Alone)",
+        "reference": "1 Timothy 2:5 / Acts 4:12"
+    },
+    {
+        "id": 794,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What Reformation principle declares that all creation, salvation, and human life exist solely for the honor, praise, and glory of God?",
+        "answer": "Soli Deo Gloria (To the Glory of God Alone)",
+        "reference": "Romans 11:36 / 1 Corinthians 10:31"
+    },
+    {
+        "id": 795,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What document, nailed by Martin Luther to the door of All Saints' Church in Wittenberg on October 31, 1517, sparked the Protestant Reformation?",
+        "answer": "The Ninety-Five Theses",
+        "reference": "Church History (October 31, 1517)"
+    },
+    {
+        "id": 796,
+        "category": "Theology, Doctrines & Terms",
+        "question": "At which imperial assembly in 1521 did Martin Luther declare: 'My conscience is captive to the Word of God... Here I stand, I can do no other'?",
+        "answer": "The Diet of Worms",
+        "reference": "Church History (AD 1521)"
+    },
+    {
+        "id": 797,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What Roman Catholic doctrine asserts that during the celebration of the Mass, the bread and wine substantially transform into the literal physical body and blood of Christ?",
+        "answer": "Transubstantiation",
+        "reference": "Fourth Lateran Council (1215)"
+    },
+    {
+        "id": 798,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What Lutheran doctrine teaches that the true body and blood of Christ are truly present 'in, with, and under' the physical bread and wine?",
+        "answer": "Consubstantiation (Sacramental Union)",
+        "reference": "Augsburg Confession (1530)"
+    },
+    {
+        "id": 799,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What memorial view of the Lord's Supper, championed by Huldrych Zwingli, teaches that communion is a symbolic act of remembrance rather than a physical or spiritual impartation of Christ's presence?",
+        "answer": "Memorialism (Symbolic View)",
+        "reference": "1 Corinthians 11:24-25"
+    },
+    {
+        "id": 800,
+        "category": "Theology, Doctrines & Terms",
+        "question": "What Protestant doctrine affirms that all Christian believers have direct spiritual access to God through Christ without need for an earthly priestly intermediary?",
+        "answer": "The Priesthood of All Believers",
+        "reference": "1 Peter 2:9 / Revelation 1:6"
+    }
+]

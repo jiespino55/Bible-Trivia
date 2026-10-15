@@ -1,0 +1,702 @@
+[
+    {
+        "id": 401,
+        "category": "Biblical Words & Meanings",
+        "question": "What does the common Hebrew word 'Shalom' mean beyond a standard greeting of peace?",
+        "answer": "Wholeness, completeness, or flourishing",
+        "reference": "Numbers 6:26"
+    },
+    {
+        "id": 402,
+        "category": "Biblical Words & Meanings",
+        "question": "What does the vital Hebrew covenant term 'Hesed' (or Chesed) mean when describing God's character?",
+        "answer": "Steadfast love (or faithful covenant mercy / loving-kindness)",
+        "reference": "Exodus 34:6"
+    },
+    {
+        "id": 403,
+        "category": "Biblical Words & Meanings",
+        "question": "In Genesis 1:2, what does the Hebrew word 'Ruach' translate to?",
+        "answer": "Spirit, wind, or breath",
+        "reference": "Genesis 1:2"
+    },
+    {
+        "id": 404,
+        "category": "Biblical Words & Meanings",
+        "question": "What does the Hebrew word 'Shema' mean in Deuteronomy 6:4?",
+        "answer": "Hear (or listen and obey)",
+        "reference": "Deuteronomy 6:4"
+    },
+    {
+        "id": 405,
+        "category": "Biblical Words & Meanings",
+        "question": "What does the Hebrew word 'Torah' literally mean?",
+        "answer": "Law, instruction, or teaching",
+        "reference": "Joshua 1:8"
+    },
+    {
+        "id": 406,
+        "category": "Biblical Words & Meanings",
+        "question": "In the Old Testament, what does the Hebrew word 'Berit' (or B'rit) translate to?",
+        "answer": "Covenant (or treaty / solemn agreement)",
+        "reference": "Genesis 15:18"
+    },
+    {
+        "id": 407,
+        "category": "Biblical Words & Meanings",
+        "question": "What does the compound Hebrew exclamation 'Hallelujah' literally translate to?",
+        "answer": "'Praise the LORD' (Praise Yah)",
+        "reference": "Psalm 150:1"
+    },
+    {
+        "id": 408,
+        "category": "Biblical Words & Meanings",
+        "question": "In Isaiah 7:14 and Matthew 1:23, what does the prophetic name 'Immanuel' mean?",
+        "answer": "'God with us'",
+        "reference": "Isaiah 7:14"
+    },
+    {
+        "id": 409,
+        "category": "Biblical Words & Meanings",
+        "question": "Revealed to Moses at the burning bush, what does the divine name 'Yahweh' (YHWH) mean?",
+        "answer": "'I AM WHO I AM' (or the self-existent One)",
+        "reference": "Exodus 3:14-15"
+    },
+    {
+        "id": 410,
+        "category": "Biblical Words & Meanings",
+        "question": "What does the Hebrew title for God 'El Shaddai' mean?",
+        "answer": "God Almighty (or God of the Mountain)",
+        "reference": "Genesis 17:1"
+    },
+    {
+        "id": 411,
+        "category": "Biblical Words & Meanings",
+        "question": "Used by Melchizedek in Genesis 14, what does the divine title 'El Elyon' translate to?",
+        "answer": "God Most High",
+        "reference": "Genesis 14:18"
+    },
+    {
+        "id": 412,
+        "category": "Biblical Words & Meanings",
+        "question": "What does the name for God 'El Roi', given by Hagar in the wilderness, mean?",
+        "answer": "'A God of seeing' (The God who sees me)",
+        "reference": "Genesis 16:13"
+    },
+    {
+        "id": 413,
+        "category": "Biblical Words & Meanings",
+        "question": "What does the Hebrew divine title 'El Olam' mean in Genesis 21:33?",
+        "answer": "The Everlasting God (or God of Eternity)",
+        "reference": "Genesis 21:33"
+    },
+    {
+        "id": 414,
+        "category": "Biblical Words & Meanings",
+        "question": "What does the compound name 'Yahweh Jireh' (or Yireh) mean on Mount Moriah?",
+        "answer": "'The LORD will provide'",
+        "reference": "Genesis 22:14"
+    },
+    {
+        "id": 415,
+        "category": "Biblical Words & Meanings",
+        "question": "What does the divine compound name 'Yahweh Rapha' mean in Exodus 15:26?",
+        "answer": "'The LORD who heals you'",
+        "reference": "Exodus 15:26"
+    },
+    {
+        "id": 416,
+        "category": "Biblical Words & Meanings",
+        "question": "What does the altar name 'Yahweh Nissi' mean in Exodus 17:15?",
+        "answer": "'The LORD is my banner'",
+        "reference": "Exodus 17:15"
+    },
+    {
+        "id": 417,
+        "category": "Biblical Words & Meanings",
+        "question": "What does the altar name 'Yahweh Shalom' mean in Judges 6:24?",
+        "answer": "'The LORD is peace'",
+        "reference": "Judges 6:24"
+    },
+    {
+        "id": 418,
+        "category": "Biblical Words & Meanings",
+        "question": "What does the divine military title 'Yahweh Sabaoth' (Tzva'ot) mean?",
+        "answer": "'The LORD of hosts' (or LORD of heavenly armies)",
+        "reference": "1 Samuel 1:3"
+    },
+    {
+        "id": 419,
+        "category": "Biblical Words & Meanings",
+        "question": "In Jeremiah 23:6, what does the prophetic name 'Yahweh Tsidkenu' mean?",
+        "answer": "'The LORD is our righteousness'",
+        "reference": "Jeremiah 23:6"
+    },
+    {
+        "id": 420,
+        "category": "Biblical Words & Meanings",
+        "question": "In Ezekiel 48:35, what does the name of the restored holy city 'Yahweh Shammah' mean?",
+        "answer": "'The LORD is there'",
+        "reference": "Ezekiel 48:35"
+    },
+    {
+        "id": 421,
+        "category": "Biblical Words & Meanings",
+        "question": "Chanted by the seraphim in Isaiah 6:3, what does the Hebrew word 'Kadosh' (or Qadosh) mean?",
+        "answer": "Holy (or set apart / sacred)",
+        "reference": "Isaiah 6:3"
+    },
+    {
+        "id": 422,
+        "category": "Biblical Words & Meanings",
+        "question": "What does the central Hebrew wisdom term 'Chokmah' (or Hokhmah) mean in Proverbs?",
+        "answer": "Wisdom (or practical skill for godly living)",
+        "reference": "Proverbs 1:2"
+    },
+    {
+        "id": 423,
+        "category": "Biblical Words & Meanings",
+        "question": "What does the Hebrew term 'Tzedakah' mean throughout the Old Testament?",
+        "answer": "Righteousness (or doing what is just and right)",
+        "reference": "Genesis 15:6"
+    },
+    {
+        "id": 424,
+        "category": "Biblical Words & Meanings",
+        "question": "What does the Hebrew legal and moral term 'Mishpat' translate to in Micah 6:8?",
+        "answer": "Justice (or judgment / fair treatment of all people)",
+        "reference": "Micah 6:8"
+    },
+    {
+        "id": 425,
+        "category": "Biblical Words & Meanings",
+        "question": "What does the solemn Hebrew affirmation 'Amen' mean?",
+        "answer": "'Truly', 'surely', or 'so be it'",
+        "reference": "Deuteronomy 27:15"
+    },
+    {
+        "id": 426,
+        "category": "Biblical Words & Meanings",
+        "question": "In the book of Ruth, what does the Hebrew legal title 'Go'el' describe Boaz as?",
+        "answer": "A kinsman-redeemer (or redeemer)",
+        "reference": "Ruth 2:20"
+    },
+    {
+        "id": 427,
+        "category": "Biblical Words & Meanings",
+        "question": "What does the Hebrew title 'Mashiach' (Messiah) literally mean?",
+        "answer": "'Anointed One'",
+        "reference": "Daniel 9:25"
+    },
+    {
+        "id": 428,
+        "category": "Biblical Words & Meanings",
+        "question": "What does the Hebrew term 'Nephesh' in Genesis 2:7 describe?",
+        "answer": "Soul, living being, or life-breath",
+        "reference": "Genesis 2:7"
+    },
+    {
+        "id": 429,
+        "category": "Biblical Words & Meanings",
+        "question": "In biblical Hebrew anthropology, what does the word 'Lev' (or Leva) encompass beyond emotions?",
+        "answer": "Heart, mind, will, and inner intellect",
+        "reference": "1 Samuel 16:7"
+    },
+    {
+        "id": 430,
+        "category": "Biblical Words & Meanings",
+        "question": "What does the Hebrew word 'Shabbat' (Sabbath) literally mean?",
+        "answer": "To cease, stop, or rest",
+        "reference": "Genesis 2:2-3"
+    },
+    {
+        "id": 431,
+        "category": "Biblical Words & Meanings",
+        "question": "In the Aaronic Blessing (Numbers 6:25), what does the root 'Chanan' (Hanan) mean?",
+        "answer": "To be gracious (or show unmerited favor)",
+        "reference": "Numbers 6:25"
+    },
+    {
+        "id": 432,
+        "category": "Biblical Words & Meanings",
+        "question": "What does the common Hebrew blessing word 'Baruch' mean?",
+        "answer": "Blessed (or praised)",
+        "reference": "Genesis 14:19"
+    },
+    {
+        "id": 433,
+        "category": "Biblical Words & Meanings",
+        "question": "What does the Hebrew title for the book of Psalms, 'Tehillim', mean?",
+        "answer": "Praises (or songs of praise)",
+        "reference": "Psalm 145:1"
+    },
+    {
+        "id": 434,
+        "category": "Biblical Words & Meanings",
+        "question": "In the Old Testament, what does the Hebrew word 'Sheol' describe?",
+        "answer": "The grave (or the realm of the dead)",
+        "reference": "Psalm 16:10"
+    },
+    {
+        "id": 435,
+        "category": "Biblical Words & Meanings",
+        "question": "What does the prophetic title 'Seraphim' in Isaiah 6 literally mean?",
+        "answer": "'Burning ones' (or fiery beings)",
+        "reference": "Isaiah 6:2"
+    },
+    {
+        "id": 436,
+        "category": "Biblical Words & Meanings",
+        "question": "What does the Hebrew word 'Yovel' (Jubilee) literally designate?",
+        "answer": "A ram's horn (used to sound the trumpet of release)",
+        "reference": "Leviticus 25:9-10"
+    },
+    {
+        "id": 437,
+        "category": "Biblical Words & Meanings",
+        "question": "When Israel saw the bread from heaven in Exodus 16:15, what question did 'Manna' (Man-hu) represent?",
+        "answer": "'What is it?'",
+        "reference": "Exodus 16:15"
+    },
+    {
+        "id": 438,
+        "category": "Biblical Words & Meanings",
+        "question": "What does the commemorative stone name 'Ebenezer' mean in 1 Samuel 7:12?",
+        "answer": "'Stone of help' ('Thus far the LORD has helped us')",
+        "reference": "1 Samuel 7:12"
+    },
+    {
+        "id": 439,
+        "category": "Biblical Words & Meanings",
+        "question": "Given to Eli's grandson in 1 Samuel 4:21, what does the name 'Ichabod' mean?",
+        "answer": "'The glory has departed'",
+        "reference": "1 Samuel 4:21"
+    },
+    {
+        "id": 440,
+        "category": "Biblical Words & Meanings",
+        "question": "What does the place name 'Marah' mean in Exodus 15:23 and Ruth 1:20?",
+        "answer": "Bitter (or bitterness)",
+        "reference": "Exodus 15:23"
+    },
+    {
+        "id": 441,
+        "category": "Biblical Words & Meanings",
+        "question": "Named by Jacob in Genesis 28:19, what does the place name 'Bethel' translate to?",
+        "answer": "'House of God'",
+        "reference": "Genesis 28:19"
+    },
+    {
+        "id": 442,
+        "category": "Biblical Words & Meanings",
+        "question": "What does the place name 'Peniel' (or Penuel) mean where Jacob wrestled God?",
+        "answer": "'Face of God'",
+        "reference": "Genesis 32:30"
+    },
+    {
+        "id": 443,
+        "category": "Biblical Words & Meanings",
+        "question": "What does the southern boundary site 'Beersheba' mean in Genesis 21:31?",
+        "answer": "'Well of the oath' (or well of the seven)",
+        "reference": "Genesis 21:31"
+    },
+    {
+        "id": 444,
+        "category": "Biblical Words & Meanings",
+        "question": "Frequently appearing in the Psalms, what is the musical or liturgical Hebrew term 'Selah' understood to indicate?",
+        "answer": "A pause to reflect (or musical interlude)",
+        "reference": "Psalm 3:2"
+    },
+    {
+        "id": 445,
+        "category": "Biblical Words & Meanings",
+        "question": "What does the Hebrew name 'Eden' mean in Genesis 2:8?",
+        "answer": "Delight (or pleasure)",
+        "reference": "Genesis 2:8"
+    },
+    {
+        "id": 446,
+        "category": "Biblical Words & Meanings",
+        "question": "Shouted during the Triumphal Entry, what does the Hebrew plea 'Hosanna' (Hoshia-na) mean?",
+        "answer": "'Save us, please!' (or 'Save now!')",
+        "reference": "Psalm 118:25"
+    },
+    {
+        "id": 447,
+        "category": "Biblical Words & Meanings",
+        "question": "Derived from the Hebrew word for ground (adamah), what does the name 'Adam' signify?",
+        "answer": "Man, mankind, or one formed from the dust",
+        "reference": "Genesis 2:7"
+    },
+    {
+        "id": 448,
+        "category": "Biblical Words & Meanings",
+        "question": "In Genesis 3:20, why was the first woman named 'Eve' (Havah)?",
+        "answer": "Because she was the mother of all living (life-giver)",
+        "reference": "Genesis 3:20"
+    },
+    {
+        "id": 449,
+        "category": "Biblical Words & Meanings",
+        "question": "What does the name 'Abraham' mean compared to his original name Abram ('exalted father')?",
+        "answer": "'Father of a multitude of nations'",
+        "reference": "Genesis 17:5"
+    },
+    {
+        "id": 450,
+        "category": "Biblical Words & Meanings",
+        "question": "Used by Jesus in Gethsemane and Paul in Romans 8:15, what does the Aramaic word 'Abba' mean?",
+        "answer": "Father (an intimate term of filial trust)",
+        "reference": "Mark 14:36"
+    },
+    {
+        "id": 451,
+        "category": "Biblical Words & Meanings",
+        "question": "What does the early Christian Aramaic prayer 'Maranatha' in 1 Corinthians 16:22 mean?",
+        "answer": "'Our Lord, come!' (or 'The Lord is coming')",
+        "reference": "1 Corinthians 16:22"
+    },
+    {
+        "id": 452,
+        "category": "Biblical Words & Meanings",
+        "question": "When Jesus healed Jairus's daughter, what did the Aramaic phrase 'Talitha cumi' translate to?",
+        "answer": "'Little girl, I say to you, arise'",
+        "reference": "Mark 5:41"
+    },
+    {
+        "id": 453,
+        "category": "Biblical Words & Meanings",
+        "question": "Spoken by Jesus when healing a deaf man in Mark 7:34, what does the Aramaic word 'Ephphatha' mean?",
+        "answer": "'Be opened'",
+        "reference": "Mark 7:34"
+    },
+    {
+        "id": 454,
+        "category": "Biblical Words & Meanings",
+        "question": "Cried by Jesus from the cross, what does 'Eloi, Eloi, lema sabachthani' mean?",
+        "answer": "'My God, my God, why have you forsaken me?'",
+        "reference": "Mark 15:34"
+    },
+    {
+        "id": 455,
+        "category": "Biblical Words & Meanings",
+        "question": "What does the Aramaic place name 'Golgotha' translate to in the Gospels?",
+        "answer": "'The Place of a Skull'",
+        "reference": "Matthew 27:33"
+    },
+    {
+        "id": 456,
+        "category": "Biblical Words & Meanings",
+        "question": "In the Sermon on the Mount, what does the Aramaic term 'Mammon' refer to?",
+        "answer": "Money, wealth, or earthly possessions",
+        "reference": "Matthew 6:24"
+    },
+    {
+        "id": 457,
+        "category": "Biblical Words & Meanings",
+        "question": "In Mark 1:1, what does the foundational Greek word 'Euangelion' translate to in English?",
+        "answer": "Good news (or Gospel)",
+        "reference": "Mark 1:1"
+    },
+    {
+        "id": 458,
+        "category": "Biblical Words & Meanings",
+        "question": "In John 1:1, what does the Greek title 'Logos' describe Jesus as?",
+        "answer": "'The Word' (or Divine Reason)",
+        "reference": "John 1:1"
+    },
+    {
+        "id": 459,
+        "category": "Biblical Words & Meanings",
+        "question": "Uttered by Jesus from the cross in John 19:30, what does the Greek word 'Tetelestai' mean?",
+        "answer": "'It is finished' (or paid in full)",
+        "reference": "John 19:30"
+    },
+    {
+        "id": 460,
+        "category": "Biblical Words & Meanings",
+        "question": "In the New Testament, what kind of love does the Greek noun 'Agape' signify?",
+        "answer": "Unconditional, sacrificial, self-giving love",
+        "reference": "1 Corinthians 13:4"
+    },
+    {
+        "id": 461,
+        "category": "Biblical Words & Meanings",
+        "question": "What type of affection or love does the Greek word 'Phileo' describe?",
+        "answer": "Brotherly love (or warm friendship / affectionate fondness)",
+        "reference": "Romans 12:10"
+    },
+    {
+        "id": 462,
+        "category": "Biblical Words & Meanings",
+        "question": "In Acts 2:42, what does the Greek term 'Koinonia' describe among believers?",
+        "answer": "Fellowship (or community / sharing in common)",
+        "reference": "Acts 2:42"
+    },
+    {
+        "id": 463,
+        "category": "Biblical Words & Meanings",
+        "question": "What does the Greek word for repentance, 'Metanoia', literally mean?",
+        "answer": "A change of mind (or transformation of heart and direction)",
+        "reference": "Matthew 4:17"
+    },
+    {
+        "id": 464,
+        "category": "Biblical Words & Meanings",
+        "question": "In John 3:8, what does the Greek word 'Pneuma' translate to?",
+        "answer": "Spirit, wind, or breath",
+        "reference": "John 3:8"
+    },
+    {
+        "id": 465,
+        "category": "Biblical Words & Meanings",
+        "question": "Applied to the Holy Spirit in John 14:16, what does the Greek title 'Parakletos' (Paraclete) mean?",
+        "answer": "Advocate, Helper, or Comforter (one called alongside to help)",
+        "reference": "John 14:16"
+    },
+    {
+        "id": 466,
+        "category": "Biblical Words & Meanings",
+        "question": "In Ephesians 2:8, what does the foundational Greek theological word 'Charis' mean?",
+        "answer": "Grace (or unmerited divine favor)",
+        "reference": "Ephesians 2:8"
+    },
+    {
+        "id": 467,
+        "category": "Biblical Words & Meanings",
+        "question": "What does the Greek word 'Eirene' translate to in Philippians 4:7?",
+        "answer": "Peace (or tranquility of soul)",
+        "reference": "Philippians 4:7"
+    },
+    {
+        "id": 468,
+        "category": "Biblical Words & Meanings",
+        "question": "Defined in Hebrews 11:1, what does the Greek noun 'Pistis' translate to?",
+        "answer": "Faith, trust, or conviction",
+        "reference": "Hebrews 11:1"
+    },
+    {
+        "id": 469,
+        "category": "Biblical Words & Meanings",
+        "question": "In Romans 15:13, what does the Greek word 'Elpis' mean?",
+        "answer": "Hope (or confident expectation of good)",
+        "reference": "Romans 15:13"
+    },
+    {
+        "id": 470,
+        "category": "Biblical Words & Meanings",
+        "question": "From which we get 'doxology', what does the Greek word 'Doxa' mean in Luke 2:14?",
+        "answer": "Glory, honor, or radiant splendor",
+        "reference": "Luke 2:14"
+    },
+    {
+        "id": 471,
+        "category": "Biblical Words & Meanings",
+        "question": "Translating the Hebrew Mashiach, what does the Greek title 'Christos' mean?",
+        "answer": "'Anointed One'",
+        "reference": "Matthew 16:16"
+    },
+    {
+        "id": 472,
+        "category": "Biblical Words & Meanings",
+        "question": "Confessed in Philippians 2:11, what does the Greek title 'Kurios' mean?",
+        "answer": "Lord, Master, or Sovereign Ruler",
+        "reference": "Philippians 2:11"
+    },
+    {
+        "id": 473,
+        "category": "Biblical Words & Meanings",
+        "question": "In the New Testament, what does the Greek word 'Theos' translate to?",
+        "answer": "God",
+        "reference": "John 1:1"
+    },
+    {
+        "id": 474,
+        "category": "Biblical Words & Meanings",
+        "question": "Literally meaning 'called-out ones', what does the Greek word 'Ekklesia' designate in Matthew 16:18?",
+        "answer": "The church (or congregation / assembly)",
+        "reference": "Matthew 16:18"
+    },
+    {
+        "id": 475,
+        "category": "Biblical Words & Meanings",
+        "question": "What does the Greek word 'Diakonos' (deacon) literally mean in Mark 10:43?",
+        "answer": "Servant (or minister)",
+        "reference": "Mark 10:43"
+    },
+    {
+        "id": 476,
+        "category": "Biblical Words & Meanings",
+        "question": "In 1 Peter 5:1, what church leadership role does the Greek word 'Presbuteros' describe?",
+        "answer": "Elder (or presbyter)",
+        "reference": "1 Peter 5:1"
+    },
+    {
+        "id": 477,
+        "category": "Biblical Words & Meanings",
+        "question": "In 1 Timothy 3:1, what does the Greek leadership title 'Episkopos' mean?",
+        "answer": "Overseer (or bishop)",
+        "reference": "1 Timothy 3:1"
+    },
+    {
+        "id": 478,
+        "category": "Biblical Words & Meanings",
+        "question": "What does the Greek title 'Apostolos' (apostle) literally mean in Matthew 10:2?",
+        "answer": "'One sent out' (or emissary / messenger)",
+        "reference": "Matthew 10:2"
+    },
+    {
+        "id": 479,
+        "category": "Biblical Words & Meanings",
+        "question": "From which we get the word 'martyr', what does the Greek noun 'Martus' mean in Acts 1:8?",
+        "answer": "Witness",
+        "reference": "Acts 1:8"
+    },
+    {
+        "id": 480,
+        "category": "Biblical Words & Meanings",
+        "question": "In Romans 1:16 and Acts 1:8, what does the Greek word 'Dunamis' mean?",
+        "answer": "Power, strength, or miraculous ability",
+        "reference": "Romans 1:16"
+    },
+    {
+        "id": 481,
+        "category": "Biblical Words & Meanings",
+        "question": "In the Great Commission (Matthew 28:18), what does the Greek word 'Exousia' translate to?",
+        "answer": "Authority (or rightful jurisdiction)",
+        "reference": "Matthew 28:18"
+    },
+    {
+        "id": 482,
+        "category": "Biblical Words & Meanings",
+        "question": "In James 1:3-4, what does the Christian character virtue 'Hupomone' mean?",
+        "answer": "Endurance, steadfast perseverance, or patient fortitude",
+        "reference": "James 1:3-4"
+    },
+    {
+        "id": 483,
+        "category": "Biblical Words & Meanings",
+        "question": "Opening each of the Beatitudes in Matthew 5, what does the Greek adjective 'Makarios' mean?",
+        "answer": "Blessed (or spiritually joyful / happy)",
+        "reference": "Matthew 5:3"
+    },
+    {
+        "id": 484,
+        "category": "Biblical Words & Meanings",
+        "question": "In Romans 3:23, what does the Greek word for sin, 'Hamartia', literally mean in archery?",
+        "answer": "'Missing the mark'",
+        "reference": "Romans 3:23"
+    },
+    {
+        "id": 485,
+        "category": "Biblical Words & Meanings",
+        "question": "In Luke 2:11, what does the Greek title 'Soter' describe Jesus as?",
+        "answer": "Savior (or Deliverer)",
+        "reference": "Luke 2:11"
+    },
+    {
+        "id": 486,
+        "category": "Biblical Words & Meanings",
+        "question": "In Romans 1:16, what does the Greek noun 'Soteria' mean?",
+        "answer": "Salvation (or deliverance)",
+        "reference": "Romans 1:16"
+    },
+    {
+        "id": 487,
+        "category": "Biblical Words & Meanings",
+        "question": "What does the title of the final book of the Bible, 'Apokalupsis' (Apocalypse), literally mean?",
+        "answer": "Unveiling, uncovering, or revelation",
+        "reference": "Revelation 1:1"
+    },
+    {
+        "id": 488,
+        "category": "Biblical Words & Meanings",
+        "question": "In 1 Corinthians 8:1, what does the Greek word 'Gnosis' translate to?",
+        "answer": "Knowledge",
+        "reference": "1 Corinthians 8:1"
+    },
+    {
+        "id": 489,
+        "category": "Biblical Words & Meanings",
+        "question": "In John 8:32 ('the truth will set you free'), what does the Greek word 'Aletheia' mean?",
+        "answer": "Truth (or reality / that which is genuine)",
+        "reference": "John 8:32"
+    },
+    {
+        "id": 490,
+        "category": "Biblical Words & Meanings",
+        "question": "In John 10:10 ('I came that they may have life'), what Greek word describes abundant, spiritual life?",
+        "answer": "Zoe",
+        "reference": "John 10:10"
+    },
+    {
+        "id": 491,
+        "category": "Biblical Words & Meanings",
+        "question": "In 1 John 2:16 ('the pride of life'), what Greek word describes earthly, biological life or livelihood?",
+        "answer": "Bios",
+        "reference": "1 John 2:16"
+    },
+    {
+        "id": 492,
+        "category": "Biblical Words & Meanings",
+        "question": "In Romans 6:23 ('the wages of sin is death'), what is the Greek word for death?",
+        "answer": "Thanatos",
+        "reference": "Romans 6:23"
+    },
+    {
+        "id": 493,
+        "category": "Biblical Words & Meanings",
+        "question": "In Matthew 16:18, what Greek term designates the realm of the departed dead or the underworld?",
+        "answer": "Hades",
+        "reference": "Matthew 16:18"
+    },
+    {
+        "id": 494,
+        "category": "Biblical Words & Meanings",
+        "question": "Derived from the Valley of Hinnom, what Greek term did Jesus use for the place of final judgment?",
+        "answer": "Gehenna",
+        "reference": "Matthew 5:29-30"
+    },
+    {
+        "id": 495,
+        "category": "Biblical Words & Meanings",
+        "question": "In John 3:16, what does the Greek word 'Kosmos' translate to?",
+        "answer": "World (or the created order / humankind)",
+        "reference": "John 3:16"
+    },
+    {
+        "id": 496,
+        "category": "Biblical Words & Meanings",
+        "question": "What Greek word describes measured, chronological clock time in Galatians 4:4?",
+        "answer": "Chronos",
+        "reference": "Galatians 4:4"
+    },
+    {
+        "id": 497,
+        "category": "Biblical Words & Meanings",
+        "question": "In Mark 1:15 ('the time is fulfilled'), what Greek word describes an appointed season or opportune moment?",
+        "answer": "Kairos",
+        "reference": "Mark 1:15"
+    },
+    {
+        "id": 498,
+        "category": "Biblical Words & Meanings",
+        "question": "In Philippians 2:7, what theological term describes Christ's voluntary self-emptying of His divine privileges?",
+        "answer": "Kenosis",
+        "reference": "Philippians 2:7"
+    },
+    {
+        "id": 499,
+        "category": "Biblical Words & Meanings",
+        "question": "In 2 Timothy 3:16, what does the compound Greek word 'Theopneustos' mean regarding Scripture?",
+        "answer": "'Breathed out by God' (or God-breathed / inspired)",
+        "reference": "2 Timothy 3:16"
+    },
+    {
+        "id": 500,
+        "category": "Biblical Words & Meanings",
+        "question": "In Matthew 24:3 and 1 Thessalonians 4:15, what does the Greek term 'Parousia' refer to?",
+        "answer": "The Second Coming (or royal presence / arrival of Christ)",
+        "reference": "1 Thessalonians 4:15"
+    }
+]
